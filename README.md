@@ -47,7 +47,34 @@ $ sudo setcap 'cap_net_bind_service=+ep' `which node`
 
 ```
 
-
 Open https://catalogue.localhost/ and accept certificate
 
 Open https://localhost/ and select an Hyperty to run.
+
+### reTHINK distribution files 
+
+
+
+## Challenge
+
+The main goal of this challenge is to do a Chat Web application, where users can create chat rooms to exchange messages with other users. Chat rooms  should be identified by a certain subject. The ideia is that users can invite others to some specfic chat room by indicating their email address. In addition, users can also join in some chat room using its URL or some identifier. Once inside a chat room, users can exchange messages between them. 
+Each user should be authenticated using their preferred Identity Provider (e.g. Google, Microsoft). reTHINK provides the authentication mecanism, so the developer does not have to handle with this feature.
+
+### 1 Task
+
+### 2 Task
+
+### 3 Task
+
+### 4 Task
+
+### 5 Task
+
+### 6 Task
+
+
+
+## How to win 
+
+
+
