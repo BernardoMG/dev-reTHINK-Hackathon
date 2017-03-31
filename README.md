@@ -2,7 +2,7 @@
 
 INTRO: This repository provides required commands 
 
-### NVM, Node and NPM Installation
+## NVM, Node and NPM Installation
 
 ```shell
 # NVM Installation
@@ -17,7 +17,7 @@ $ node -v
 $ npm -v
 ```
 
-### reTHINK environment configuration 
+## reTHINK environment configuration 
 
 ```shell
 # clone the toolkit repository:
@@ -51,7 +51,7 @@ Open https://catalogue.localhost/ and accept certificate
 
 Open https://localhost/ and select an Hyperty to run.
 
-### reTHINK distribution files 
+## reTHINK distribution files 
 
 
 
