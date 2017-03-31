@@ -2,15 +2,15 @@
 
 INTRO: This repository provides required commands 
 
-### MVN, Node and NPM Installation
+### NVM, Node and NPM Installation
 
 ```shell
-# MVN Installation
-$ curl https://raw.githubusercontent.com/creationix/nvm/v0.11.1/install.sh | bash
-# You may need to restart your terminal so MVN can be used
+# NVM Installation
+$ curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.1/install.sh | bash
+# Restart your terminal so NVM can be used
 
 # Node Installation
-$ mvn install 6.6.0
+$ nvm install 6.6.0
 
 # To verify that node and npm was correctly install run:
 $ node -v
