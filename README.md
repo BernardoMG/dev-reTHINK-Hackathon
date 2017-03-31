@@ -35,15 +35,18 @@ $ npm install -g karma-cli gulp-cli browserify
 $ npm install
 
 # Note: It may take a while to install all modules. Hang tight. 
-# If you are using Linux, probably you may have some problems running npm run start:browser because you will need the sudo privileges, so, you can solve this problem with this command:
-
-$ sudo setcap 'cap_net_bind_service=+ep' `which node`
 ```
 
 ```shell
 # run the toolkit for browse
 npm run start:browser
+
+# Note: If you are using MAC OS you may need to run the above command with sudo privileges; otherwise with Linux, you can solve this problem with following command. As result, you do not need sudo privileges.
+
+$ sudo setcap 'cap_net_bind_service=+ep' `which node`
+
 ```
+
 
 Open https://catalogue.localhost/ and accept certificate
 
