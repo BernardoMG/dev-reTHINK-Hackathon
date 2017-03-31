@@ -57,7 +57,7 @@ Open https://localhost/ and select an Hyperty to run.
 
 ## Challenge
 
-The main goal of this challenge is to do a Chat Web application, where users can create chat rooms to exchange messages with other users. Chat rooms  should be identified by a certain subject. The ideia is that users can invite others to some specfic chat room by indicating their email address. In addition, users can also join in some chat room using its URL or some identifier. Once inside a chat room, users can exchange messages between them. 
+The main goal of this challenge is to develop a Chat Web application, where users can create chat rooms to exchange messages with other users. Each chat rooms should be identified by a certain identifier. The ideia is that users can invite others to some specfic chat room by indicating their email address. In addition, users can also join some chat room using it identifier. Once inside a chat room, users can exchange messages between them. 
 Each user should be authenticated using their preferred Identity Provider (e.g. Google, Microsoft). reTHINK provides the authentication mecanism, so the developer does not have to handle with this feature.
 
 ### 1 Task
