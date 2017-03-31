@@ -1,4 +1,4 @@
-# dev-reTHINK-initial-guide
+# reTHINK Challenge
 
 INTRO: This repository provides required commands 
 
