@@ -40,3 +40,11 @@ $ npm install
 $ sudo setcap 'cap_net_bind_service=+ep' `which node`
 ```
 
+```shell
+# run the toolkit for browse
+npm run start:browser
+```
+
+Open https://catalogue.localhost/ and accept certificate
+
+Open https://localhost/ and select an Hyperty to run.
