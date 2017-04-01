@@ -122,3 +122,5 @@ GroupChatManager.join(url).then(function(chatController) => {
 
 
 ## Feedback
+
+[form](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform)
