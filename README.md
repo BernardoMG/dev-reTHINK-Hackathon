@@ -1,6 +1,7 @@
 # reTHINK Challenge
 
-INTRO: This repository provides required commands 
+This Repo is dedicated to help TADHack participants in the use of reTHINK framework for web application development. First, helps with reTHINK configuration and then give some guidelines on how to use it in web applications. At the end of this Repo, it describes a challenge that participants needs to do.
+ 
 
 ## NVM, Node and NPM Installation
 
@@ -54,13 +55,38 @@ Open https://localhost/ and select an Hyperty to run.
 ## reTHINK distribution files 
 
 
+## How to deploy in an application
+
+## Usefull documentation
 
 ## Challenge
 
-The main goal of this challenge is to develop a Chat Web application, where users can create chat rooms to exchange messages with other users. Each chat room must be identified by a certain name. The ideia is that users can invite others to some specific chat room by indicating their email address. In addition, users can also join some chat room using its identifier. Once inside a chat room, users can exchange messages between them. 
+The main goal of this challenge is to develop a Chat web application, where users can create chat rooms to exchange messages with other users. Each chat room must be identified by a certain name. The ideia is that users can invite others to some specific chat room by indicating their email address. In addition, users can also join some chat room using its identifier. Once inside a chat room, users can exchange messages between them. 
 Each user should be authenticated using their preferred Identity Provider (e.g. Google, Microsoft). reTHINK provides an authentication mecanism, so the developer does not have to handle with this.
 
-### Task 1
+### Task 1 (`estimation 30 minutes`)
+
+`Load Runtime` - reTHINK runtime is obtained after the `rethink.js` execution.
+
+```shell
+#Example
+rethink.default.install({ 
+  domain: runtime_domain,
+  development: true,
+  runtimeURL: runtimeURL
+  }).then((runtime) => {
+    ... 
+});
+```
+
+`Load a Hyperty` - A Hyperty can be loaded using `requireHyperty()` method. For this challenge should be loaded the GroupChatManager Hyperty, already present in the `hybroker.rethink.ptinovacao.pt` catalogue.
+
+```shell
+#Example
+RUNTIME.requireHyperty(hypertyURI(hyperty_domain, 'GroupChatManager')).then((hyperty) => {
+  ...
+});
+```
 
 ### Task 2
 
