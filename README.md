@@ -55,9 +55,8 @@ Open https://localhost/ and select an Hyperty to run.
 ## reTHINK distribution files 
 
 
-## How to deploy in an application
-
 ## Usefull documentation
+
 
 ## Challenge
 
