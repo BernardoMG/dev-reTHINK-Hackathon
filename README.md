@@ -1,6 +1,6 @@
 # reTHINK Challenge
 
-This Repo is dedicated to help TADHack participants using reTHINK framework for web application development. First, helps with reTHINK configuration and then give some guidelines on how to use it in web applications. At the end of this Repo, it describes a challenge that participants needs to do.
+This Repo is dedicated to help TADHack participants using reTHINK framework for web application development. First, helps with reTHINK configuration and then give some guidelines on how to use it in web applications. At the end, is presented a challenge that participants needs to do.
  
 
 ## NVM, Node and NPM Installation
@@ -17,6 +17,7 @@ $ nvm install 6.6.0
 $ node -v
 $ npm -v
 ```
+
 
 ## reTHINK environment configuration 
 
@@ -50,9 +51,11 @@ $ sudo setcap 'cap_net_bind_service=+ep' `which node`
 
 ```
 
+
 Open https://catalogue.localhost/ and accept certificate
 
 Open https://localhost/ and select an Hyperty to run.
+
 
 ## reTHINK distribution files 
 
@@ -91,7 +94,14 @@ RUNTIME.requireHyperty(hypertyURI(hyperty_domain, 'GroupChatManager')).then((hyp
 
 ### Task 2 (`estimation 1 hour and 30 minutes`)
 
-`Creation of chat rooms` - 
+`Creation of chat rooms` - Chat rooms must be identified by a certain name. When a chat room is created, the user could also provide a list of emails to invite to the chat room. Opcionally, if some user is in a different domain must be provided in order to receive the invitation.
+
+```shell
+#Example
+GroupChatManager.create(identifier, emails, domains).then((chatController) => {
+  ...
+});
+```
 
 ### Task 3 (`estimation 45 minutes`)
 
