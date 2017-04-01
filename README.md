@@ -92,29 +92,31 @@ RUNTIME.requireHyperty(hypertyURI(hyperty_domain, 'GroupChatManager')).then((hyp
 });
 ```
 
-### Task 2 (`estimation 1 hour and 30 minutes`)
+### Task 2 (`estimation 2 hour`)
 
 `Creation of chat rooms` - Chat rooms must be identified by a certain name. When a chat room is created, the user could also provide a list of emails to invite to the chat room. Opcionally, if some user is in a different domain must be provided in order to receive the invitation.
 
 ```shell
 #Example
-GroupChatManager.create(identifier, emails, domains).then((chatController) => {
+GroupChatManager.create(identifier, emails, domains).then(function(chatController) => {
   ...
 });
 ```
 
 ### Task 3 (`estimation 45 minutes`)
 
-`Invite friends to chat room` - 
+`Join chat room` - Once created the chat room, is generated a URL (`DataObject Reporter URL`) that other users should use if they want to join the chat room.
+
+```shell
+#Example
+GroupChatManager.join(url).then(function(chatController) => {
+  ...
+});
+```
 
 ### Task 4 (`estimation 45 minutes`)
 
-`Join chat room` - 
-
-### Task 5 (`estimation 45 minutes`)
-
 `Exchange of messages` -
-
 
 ### How to succeed and win the prize 
 
