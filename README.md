@@ -40,7 +40,7 @@ $ npm install
 ```
 
 ```shell
-# run the toolkit for browse
+# run the toolkit for browser
 $ npm run start:browser
 
 # Note: If you are using MAC OS you may need to run the above command with sudo privileges; 
@@ -66,7 +66,7 @@ To deply reTHINK runtime in web applications is necessary to execute `rethink.js
 * Clone the repository using the following command and copy the `bin`paste into the web application directory
 
 ```shell
-# run the toolkit for browse
+# Clone the runtime-browser repository:
 $ git clone --branch=develop https://github.com/reTHINK-project/dev-runtime-browser.git
 ```
 
