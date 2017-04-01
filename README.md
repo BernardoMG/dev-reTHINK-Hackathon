@@ -80,7 +80,7 @@ rethink.default.install({
 });
 ```
 
-`Load a Hyperty` - A Hyperty can be loaded using `requireHyperty()` method. For this challenge should be loaded the GroupChatManager Hyperty, already present in the `hybroker.rethink.ptinovacao.pt` catalogue. To deploy it in a successfull manner, authentication is mandatory.
+`Load an Hyperty` - An Hyperty can be loaded using `requireHyperty()` method. For this challenge should be loaded the GroupChatManager Hyperty, already present in the `hybroker.rethink.ptinovacao.pt` catalogue. To deploy it in a successfull manner, authentication is mandatory.
 
 ```shell
 #Example
