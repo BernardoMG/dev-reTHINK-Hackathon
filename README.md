@@ -62,6 +62,11 @@ Open https://localhost/ and select an Hyperty to run.
 
 ## Usefull documentation
 
+* [Complete espefication](https://github.com/reTHINK-project/specs)
+
+* [GroupChatManager](https://github.com/reTHINK-project/dev-hyperty/tree/develop/docs/group-chat-manager)
+
+* [APP Example](https://github.com/reTHINK-project/dev-app/tree/develop)
 
 ## Challenge
 
