@@ -70,7 +70,7 @@ To deploy reTHINK runtime in your web application is necessary to execute `rethi
   },
 ```
 
-* Clone the repository using the following command and copy the `bin`paste into the web application directory
+* Clone the repository using the following command and copy the `bin`paste into your web application directory
 
 ```shell
 # Clone the runtime-browser repository:
