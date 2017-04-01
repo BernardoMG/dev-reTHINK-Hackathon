@@ -92,7 +92,7 @@ RUNTIME.requireHyperty(hypertyURI(hyperty_domain, 'GroupChatManager')).then((hyp
 });
 ```
 
-### Task 2 (`estimation 2 hour`)
+### Task 2 (`estimation 1 hour and 30 minutes`)
 
 `Creation of chat rooms` - Chat rooms must be identified by a certain name. When a chat room is created, the user could also provide a list of emails to invite to the chat room. Opcionally, if some user is in a different domain must be provided in order to receive the invitation.
 
