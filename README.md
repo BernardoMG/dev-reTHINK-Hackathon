@@ -59,7 +59,7 @@ Open https://localhost/ and select an Hyperty to run.
 
 ## reTHINK distribution files 
 
-To deploy reTHINK runtime in web applications is necessary to execute `rethink.js`. This script can be found in `dev-runtime-browser` repository. There are two ways to use this script:
+To deploy reTHINK runtime in your web application is necessary to execute `rethink.js`. This script can be found in `dev-runtime-browser` repository. There are two ways to use this script:
 
 * Add the following dependency into your `package.json` file, or
 
