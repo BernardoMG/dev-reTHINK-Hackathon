@@ -116,7 +116,14 @@ GroupChatManager.join(url).then(function(chatController) => {
 
 ### Task 4 (`estimation 45 minutes`)
 
-`Exchange of messages` -
+`Exchange of messages` - Inside the chat room, users can easly exchange messages between them.
+
+```shell
+#Example
+chatController.send(message).then(function(result) => {
+  ...
+});
+```
 
 ### How to succeed and win the prize 
 
