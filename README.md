@@ -41,7 +41,7 @@ $ npm install
 
 ```shell
 # run the toolkit for browse
-npm run start:browser
+$ npm run start:browser
 
 # Note: If you are using MAC OS you may need to run the above command with sudo privileges; 
 #       Otherwise with Linux, you can solve this problem with following command. 
@@ -58,6 +58,17 @@ Open https://localhost/ and select an Hyperty to run.
 
 
 ## reTHINK distribution files 
+
+To deply reTHINK runtime in web applications is necessary to execute `rethink.js`. This script can be found in `dev-runtime-browser` repository. There are two ways to use this script:
+
+* Add the following dependency into your `package.json` file, or
+
+* Clone the repository using the following command and copy the `bin`paste into the web application directory
+
+```shell
+# run the toolkit for browse
+$ git clone --branch=develop https://github.com/reTHINK-project/dev-runtime-browser.git
+```
 
 
 ## Usefull documentation
