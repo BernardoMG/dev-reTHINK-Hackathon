@@ -43,7 +43,8 @@ $ npm install
 npm run start:browser
 
 # Note: If you are using MAC OS you may need to run the above command with sudo privileges; 
-otherwise with Linux, you can solve this problem with following command. As result, you do not need sudo privileges.
+Otherwise with Linux, you can solve this problem with following command. 
+As result, you do not need sudo privileges.
 
 $ sudo setcap 'cap_net_bind_service=+ep' `which node`
 
