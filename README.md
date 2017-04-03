@@ -1,6 +1,6 @@
 # reTHINK Challenge
 
-This Repo is dedicated to help TADHack participants using reTHINK framework for web application development. First, helps with reTHINK configuration and give some guidelines on how to use it in web applications. At the end, is presented a challenge that participants needs to do.
+This Repo is dedicated to help TADHack participants using reTHINK framework for web application development. First, helps with reTHINK configuration and give some guidelines on how to use it in web applications. Then, a challenge is presented, with several tasks that each participant must accomplish. And at the end, is provided a form, which must be filled out by each participant.
  
 
 ## NVM, Node and NPM Installation
