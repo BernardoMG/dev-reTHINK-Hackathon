@@ -153,6 +153,6 @@ chatController.send(message).then(function(result) => {
 
 ## Feedback
 
-Your feedback is extremelly important for us, in order to improve reTHINK framework in the future. Please fullfill this [FORM](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform).
+Your feedback is extremelly important for us in order to improve reTHINK framework in the future. Please fullfill this [FORM](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform).
 
 ##### Note: If you do not fullfill this form, your participation wont be considered! 
