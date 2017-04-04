@@ -86,6 +86,8 @@ $ git clone --branch=develop https://github.com/reTHINK-project/dev-runtime-brow
 
 * [APP Example](https://github.com/reTHINK-project/dev-app/tree/develop)
 
+* [Webinars](https://www.youtube.com/channel/UC4xTKj2ZvhUyJosA_fLeAhg)
+
 ## Challenge
 
 The main goal of this challenge is to develop a Chat web application using the GroupChatManager hyperty. In this application, users can create chat rooms to exchange messages with other users. Each chat room must be identified by a certain name. The ideia is that users can invite others to some specific chat room by indicating their email address. In addition, users can also join some chat room using its identifier. Once inside a chat room, users can exchange messages between them. 
