@@ -154,9 +154,11 @@ Each participant must complete the proposed challenge, but to win the prize the 
 
 The criterias that we will consider are the following:
 
- * Additional features 
+ * Additional Features 
  
  * User Interface
+ 
+ * Code Quality
 
 ## Feedback
 
