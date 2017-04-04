@@ -150,6 +150,13 @@ chatController.send(message).then(function(result) => {
 
 ### How to succeed and win the prize 
 
+Each participant must complete the proposed challenge, but to win the prize the application will have to stand out from the others.
+
+The criterias that we will consider are the following:
+
+ * Additional features 
+ 
+ * User Interface
 
 ## Feedback
 
