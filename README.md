@@ -1,6 +1,6 @@
 # reTHINK Challenge
 
-This Repo is dedicated to help TADHack participants using reTHINK framework for web application development. First, helps with reTHINK configuration and give some guidelines on how to use it in web applications. Then, a challenge is presented, with several tasks that each participant must accomplish. At the end, is provided a form, which must be filled out by each participant.
+This Repo is dedicated to help TADHack participants using reTHINK framework for web application development. First, it helps with reTHINK configuration and give some guidelines on how to use it in web applications. Then, a programming challenge is proposed, with several tasks that each participant should accomplish. At the end, is provided a form, which must be filled out by each participant.
  
 
 ## NVM, Node and NPM Installation
@@ -70,7 +70,7 @@ To deploy reTHINK runtime in your web application is necessary to execute `rethi
   },
 ```
 
-* Clone the repository using the following command and copy the `bin`paste into your web application directory
+* Clone the repository using the following command and copy the `bin` folder into the root of your application 
 
 ```shell
 # Clone the runtime-browser repository:
@@ -90,8 +90,8 @@ $ git clone --branch=develop https://github.com/reTHINK-project/dev-runtime-brow
 
 ## Challenge
 
-The main goal of this challenge is to develop a Chat web application using the GroupChatManager hyperty. In this application, users can create chat rooms to exchange messages with other users. Each chat room must be identified by a certain name. The ideia is that users can invite others to some specific chat room by indicating their email address. In addition, users can also join some chat room using its identifier. Once inside a chat room, users can exchange messages between them. 
-Each user should be authenticated using their preferred Identity Provider (e.g. Google, Microsoft). reTHINK provides an authentication mecanism, so the developer does not have to handle with this.
+The main goal of this challenge is to develop a Chat web application using the GroupChatManager hyperty. In this application, users can create chat rooms to exchange messages with each other. Each chat room must be identified by a certain name. The ideia is that users can invite others to some specific chat room by indicating their email address. In addition, users can also join some chat room using its identifier. Once inside a chat room, users can exchange messages between them. 
+Each user should be authenticated using their preferred Identity Provider (e.g. Google, Microsoft). reTHINK provides an authentication mecanism, so the developer does not have to handle this.
 
 ### Task 1 (`estimation 45 minutes`)
 
@@ -108,7 +108,7 @@ rethink.default.install({
 });
 ```
 
-`Load an Hyperty` - An Hyperty can be loaded using `requireHyperty()` method. For this challenge should be loaded the `GroupChatManager` Hyperty, already present in the `hybroker.rethink.ptinovacao.pt` catalogue. To deploy it in a successfull manner, authentication is mandatory.
+`Load an Hyperty` - An Hyperty can be loaded using `requireHyperty()` method. For this challenge should be loaded the `GroupChatManager` Hyperty, which is ready to be used in `hybroker.rethink.ptinovacao.pt` catalogue. To deploy it in a successfull manner, authentication is mandatory.
 
 ```shell
 #Example
@@ -119,7 +119,7 @@ RUNTIME.requireHyperty(hypertyURI(hyperty_domain, 'GroupChatManager')).then((hyp
 
 ### Task 2 (`estimation 1 hour and 30 minutes`)
 
-`Creation of chat rooms` - Chat rooms must be identified by a certain name. When a chat room is created, the user could also provide a list of emails to invite to the chat room. Opcionally, if some user is in a different domain must be provided in order to receive the invitation.
+`Creation of chat rooms` - Chat rooms must be identified by a certain name. When a chat room is created, the user can also provide a list of emails to invite to the chat room. Alternatively, if some user is at a different domain, this must be provided in order to receive the invitation.
 
 ```shell
 #Example
@@ -130,7 +130,7 @@ GroupChatManager.create(identifier, emails, domains).then(function(chatControlle
 
 ### Task 3 (`estimation 45 minutes`)
 
-`Join chat room` - Once created the chat room, is generated a URL (`DataObject Reporter URL`) that other users should use if they want to join the chat room.
+`Join chat room` - As soon as the chat room is created, is generated a URL (`DataObject Reporter URL`) that other users should use if they want to join the chat room.
 
 ```shell
 #Example
@@ -164,6 +164,6 @@ The criterias that we will consider are the following:
 
 ## Feedback
 
-Your feedback is extremelly important for us in order to improve reTHINK framework in the future. Please fullfill this [FORM](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform).
+Your feedback is extremelly important for us in order to improve reTHINK framework in the future. Please fill this [FORM](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform).
 
 ##### Note: If you do not fullfill this form, your participation wont be considered! 
