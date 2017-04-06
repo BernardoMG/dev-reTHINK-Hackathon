@@ -33,7 +33,7 @@ $ git clone --branch=develop https://github.com/reTHINK-project/dev-runtime-brow
 
 #### Task 1.2:
 
-`Load Runtime` - reTHINK runtime is obtained after the `rethink.js` execution by your application.
+`Load Runtime` - reTHINK runtime can be obtained after the `rethink.js` execution by your application.
 
 ```shell
 #Example
