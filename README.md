@@ -56,7 +56,7 @@ rethink.default.install({
 
 ```shell
 #Example
-RUNTIME.requireHyperty(hypertyURI(hyperty_domain, 'GroupChatManager')).then((hyperty) => {
+RUNTIME.requireHyperty(hypertyURI(hyperty_domain, 'XHyperty')).then((hyperty) => {
   ...
 });
 ```
