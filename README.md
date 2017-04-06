@@ -8,6 +8,10 @@ Each team should develop a web application that uses the X hyperty that can depl
 
 ##### IMAGE
 
+To overcome this first challenge, each team should accomplish all the tasks bellow. 
+Your feedback is extremely important for us in order to improve reTHINK framework in the future. As such, after complete all the tasks, each team must fill out the page 2 of this [FORM](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform). 
+
+##### Note: If you do not fill out this form, your participation wont be considered! 
 
 ### Task 1 (`estimation: 45 minutes`)
 
@@ -48,7 +52,7 @@ rethink.default.install({
 
 #### Task 1.2:
 
-`Load an Hyperty` - An Hyperty can be loaded using `requireHyperty()` method. For this challenge should be loaded the `X` Hyperty, which is ready to be used in `hybroker.rethink.ptinovacao.pt` catalogue. To deploy it in a successfull manner, authentication is mandatory.
+`Load an Hyperty` - An Hyperty can be loaded using `requireHyperty()` method. For this challenge should be loaded the `X` Hyperty, which is ready to be used in `hybroker.rethink.ptinovacao.pt` catalogue. To deploy it in a successful manner, authentication is mandatory.
 
 ```shell
 #Example
