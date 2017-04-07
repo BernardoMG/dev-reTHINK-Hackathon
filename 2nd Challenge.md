@@ -1,6 +1,15 @@
-# 1st Challenge
+# 2st Challenge
 
-Each team should develop a web application that uses the `XHyperty` hyperty that can deployed from the `hysmart.rethink.ptinovacao.pt` catalogue. This hyperty generates a code according to the name of your team that should be passed as input. The resulting code should be shown in the developed application.   
+Each team should develop a Chat application that uses the `XHyperty` and `GroupChatManager` hyperties that can deployed from the `hysmart.rethink.ptinovacao.pt` catalogue. The `XHyperty` generates a code according to the name of your team that should be passed an input. The `GroupChatManaher` hyperty main functionality is to handle Text conversations among groups, including:
+
+ * Creation of a new Group Chat with possibility to invite users to join it
+ 
+ * Motification about invitation to join a Group Chat with options to accept or reject
+
+ * Send message to group
+
+ * Receive message from group with identity from sender
+   
 
 ![1st Challenge](https://github.com/BernardoMG/dev-reTHINK-challenge/blob/master/Figures/1-Challenge.jpg)
 
