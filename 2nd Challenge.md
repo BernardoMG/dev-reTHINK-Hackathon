@@ -13,8 +13,8 @@ Each team should develop a Chat application that uses the `XHyperty` and `GroupC
 
 ![1st Challenge](https://github.com/BernardoMG/dev-reTHINK-challenge/blob/master/Figures/1-Challenge.jpg)
 
-To overcome this first challenge, each team should accomplish all the tasks bellow. 
-Your feedback is extremely important for us in order to improve reTHINK framework in the future. As such, after complete all the tasks, each team must fill out the page 2 of this [FORM](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform). 
+To overcome this second challenge, each team should accomplish all the tasks bellow. 
+Your feedback is extremely important for us in order to improve reTHINK framework in the future. As such, after complete all the tasks, each team must fill out the page 3 of this [FORM](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform). 
 
 #### Note: If you do not fill out this form, your participation wont be considered! 
 
