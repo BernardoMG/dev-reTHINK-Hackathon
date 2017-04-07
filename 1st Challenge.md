@@ -1,9 +1,4 @@
-# reTHINK Hackathon
-
-This Repo is dedicated to help TADHack participants using reTHINK framework for web application development. First, it helps with reTHINK configuration and give some guidelines on how to use it in web applications. Then, a programming challenge is proposed, with several tasks that each participant should accomplish. At the end, is provided a form, which must be filled out by each participant.
-**DIZER NO FINAL DO REPO ESTARA TODA A DOCUMENTAÇÃO DISPONIVEL
- 
-## 1st Challenge
+# 1st Challenge
 
 Each team should develop a web application that uses the X hyperty that can deployed from the `hysmart.rethink.ptinovacao.pt` catalogue. This hyperty generates a code according to the name of your team that should be passed as input. The resulting code should be shown in the developed application.   
 
@@ -12,11 +7,11 @@ Each team should develop a web application that uses the X hyperty that can depl
 To overcome this first challenge, each team should accomplish all the tasks bellow. 
 Your feedback is extremely important for us in order to improve reTHINK framework in the future. As such, after complete all the tasks, each team must fill out the page 2 of this [FORM](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform). 
 
-##### Note: If you do not fill out this form, your participation wont be considered! 
+#### Note: If you do not fill out this form, your participation wont be considered! 
 
-### Task 1 (`estimation: 45 minutes`)
+## Task 1 (`estimation: 45 minutes`)
 
-#### Task 1.1:
+### Task 1.1:
 
 `reTHINK distribution files` - To deploy reTHINK runtime in your web application is necessary to execute `rethink.js`. This script can be found in `dev-runtime-browser` repository. There are two ways to obtain this script:
 
@@ -36,7 +31,7 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 $ git clone --branch=develop https://github.com/reTHINK-project/dev-runtime-browser.git
 ```
 
-#### Task 1.2:
+### Task 1.2:
 
 `Load Runtime` - reTHINK runtime can be obtained after the `rethink.js` execution by your application.
 
@@ -51,7 +46,7 @@ rethink.default.install({
 });
 ```
 
-#### Task 1.2:
+### Task 1.3:
 
 `Load an Hyperty` - An Hyperty can be loaded using `requireHyperty()` method. For this challenge should be loaded the `X` Hyperty, which is ready to be used in `hybroker.rethink.ptinovacao.pt` catalogue. To deploy it in a successful manner, authentication is mandatory.
 
@@ -62,7 +57,7 @@ RUNTIME.requireHyperty(hypertyURI(hyperty_domain, 'XHyperty')).then((hyperty) =>
 });
 ```
 
-### Task 2 (`estimation: 45 minutes`)
+## Task 2 (`estimation: 45 minutes`)
 
 `Generate a code` - The generated code depends of the name of each team that should be passed as input.
 
@@ -73,18 +68,5 @@ XHyperty.generateCode(name).then((code) => {
 });
 ```
 
-##### Note: Don't forget to display the generated code on your developed application (html page).
+#### Note: Don't forget to display the generated code on your developed application (html page).
 
-
-## 2nd Challenge
-
-
-## Usefull documentation
-
-* [Complete espefication](https://github.com/reTHINK-project/specs)
-
-* [GroupChatManager](https://github.com/reTHINK-project/dev-hyperty/tree/develop/docs/group-chat-manager)
-
-* [APP Example](https://github.com/reTHINK-project/dev-app/tree/develop)
-
-* [Webinars](https://www.youtube.com/channel/UC4xTKj2ZvhUyJosA_fLeAhg)
