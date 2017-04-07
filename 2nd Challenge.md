@@ -22,4 +22,60 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 
 ### Task 1.1:
 
+`reTHINK distribution files` - To deploy reTHINK runtime in your web application is necessary to execute `rethink.js`. This script can be found in `dev-runtime-browser` repository. There are two ways to obtain this script:
+
+* Add the following dependency into your `package.json` file
+
+```shell
+# Add dependency to your package.json file:
+  "dependencies": {
+    "runtime-browser": "reTHINK-project/dev-runtime-browser#develop"
+  },
+```
+
+* Clone the repository using the following command and copy the `bin` folder into the root of your application 
+
+```shell
+# Clone the runtime-browser repository:
+$ git clone --branch=develop https://github.com/reTHINK-project/dev-runtime-browser.git
+```
+
+### Task 1.2:
+
+`Load Runtime` - reTHINK runtime can be obtained after the `rethink.js` execution by your application.
+
+```shell
+#Example
+rethink.default.install({ 
+  domain: runtime_domain,
+  development: true,
+  runtimeURL: runtimeURL
+  }).then((runtime) => {
+    ... 
+});
+```
+
+### Task 1.3:
+
+`Load an Hyperty` - An Hyperty can be loaded using `requireHyperty()` method. For this challenge should be loaded the `XHyperty` and the `GroupChatManaher` hyperties, which are ready to be used in `hybroker.rethink.ptinovacao.pt` catalogue. To deploy it in a successful manner, authentication is mandatory.
+
+```shell
+#Example
+RUNTIME.requireHyperty(hypertyURI(hyperty_domain, 'XHyperty')).then((hyperty) => {
+  ...
+});
+```
+
+## Task 3 (`estimation: 45 minutes`)
+
+`Generate a code` - The generated code depends of the name of each team that should be passed as input.
+
+```shell
+#Example
+XHyperty.generateCode(name).then((code) => {
+  ...
+});
+```
+
+
 
