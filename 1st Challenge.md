@@ -68,5 +68,5 @@ XHyperty.generateCode(name).then((code) => {
 });
 ```
 
-#### Note: Don't forget to display the generated code on your developed application (html page).
+#### Note: Don't forget to display the generated code on your developed application (HTML page).
 
