@@ -1,6 +1,6 @@
 # 1st Challenge
 
-Each team should develop a web application that uses the X hyperty that can deployed from the `hysmart.rethink.ptinovacao.pt` catalogue. This hyperty generates a code according to the name of your team that should be passed as input. The resulting code should be shown in the developed application.   
+Each team should develop a web application that uses the `XHyperty` hyperty that can deployed from the `hysmart.rethink.ptinovacao.pt` catalogue. This hyperty generates a code according to the name of your team that should be passed as input. The resulting code should be shown in the developed application.   
 
 ![1st Challenge](https://github.com/BernardoMG/dev-reTHINK-challenge/blob/master/Figures/1-Challenge.jpg)
 
@@ -48,7 +48,7 @@ rethink.default.install({
 
 ### Task 1.3:
 
-`Load an Hyperty` - An Hyperty can be loaded using `requireHyperty()` method. For this challenge should be loaded the `X` Hyperty, which is ready to be used in `hybroker.rethink.ptinovacao.pt` catalogue. To deploy it in a successful manner, authentication is mandatory.
+`Load an Hyperty` - An Hyperty can be loaded using `requireHyperty()` method. For this challenge should be loaded the `XHyperty` hyperty, which is ready to be used in `hybroker.rethink.ptinovacao.pt` catalogue. To deploy it in a successful manner, authentication is mandatory.
 
 ```shell
 #Example
