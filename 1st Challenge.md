@@ -7,7 +7,7 @@ Each team should develop a web application that uses the `XHyperty` hyperty that
 To overcome this first challenge, each team should accomplish all the tasks bellow. 
 Your feedback is extremely important for us in order to improve reTHINK framework in the future. As such, after complete all the tasks, each team must fill out the page 2 of this [FORM](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform). 
 
-#### Note: If you do not fill out this form, your participation wont be considered! 
+### Note: If you do not fill out this form, your participation wont be considered! 
 
 ## Task 1 (`estimation: 45 minutes`)
 
