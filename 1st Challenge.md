@@ -1,6 +1,6 @@
 # 1st Challenge
 
-Each team should develop a web application that uses the `XHyperty` hyperty that can deployed from the `hysmart.rethink.ptinovacao.pt` catalogue. This hyperty generates a code according to the name of your team that should be passed as input. The resulting code should be shown in the developed application.   
+Each team should develop a web application that uses the `XHyperty` hyperty that can deployed from the `hysmart.rethink.ptinovacao.pt` catalogue. This hyperty generates a code according to the name of each team that should be passed as input. The resulting code should be shown in the developed application.   
 
 ![1st Challenge](https://github.com/BernardoMG/dev-reTHINK-challenge/blob/master/Figures/1-Challenge.jpg)
 
