@@ -18,10 +18,10 @@ This Repo is dedicated to help TADHack participants using reTHINK framework for 
 ## Criterias (per challenge)
 
  * Completeness of the proposed challenge
+  
+ * User interface 
  
  * Duration 
- 
- * User interface 
  
  * Code quality
  
