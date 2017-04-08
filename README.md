@@ -36,6 +36,8 @@ This Repo is dedicated to help TADHack participants using reTHINK framework for 
 
 * [APP Example](https://github.com/reTHINK-project/dev-app/tree/develop)
 
+* [Hyperty Development](https://github.com/reTHINK-project/dev-hyperty-toolkit/wiki/First-Hyperty-Development)
+
 * [Webinars](https://www.youtube.com/channel/UC4xTKj2ZvhUyJosA_fLeAhg)
  
  
