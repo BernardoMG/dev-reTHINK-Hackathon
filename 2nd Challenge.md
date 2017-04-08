@@ -64,6 +64,6 @@ chatController.send(message).then(function(result) => {
 
 ### Task 5 (`estimation: 20 minutes`)
 
-`Generate a code and broadcast to the participants` - The generated code depends of the name of each team that should be passed as input. When the code is received should be send to all the participants of the chat room.
+`Generate a code and broadcast to all the participants` - The generated code depends of the name of each team that should be passed as input. When the code is received should be send to all the participants of the chat room.
 
 
