@@ -1,6 +1,6 @@
 # 2nd Challenge
 
-Each team should develop a chat application that uses the `XHyperty` and `GroupChatManager` hyperties that can deployed from the `hysmart.rethink.ptinovacao.pt` catalogue. The `XHyperty` generates a code according to the name of your team that should be passed an input. The `GroupChatManager` hyperty main functionality is to handle text conversations among groups, including:
+Each team should develop a chat application that uses the `XHyperty` and `GroupChatManager` hyperties that can deployed from the `hysmart.rethink.ptinovacao.pt` catalogue. The `XHyperty` hyperty generates a code according to the name of your team that should be passed an input. The `GroupChatManager` hyperty main functionality is to handle text conversations among groups, including:
 
  * Creation of a new Group Chat with possibility to invite users to join it
  
