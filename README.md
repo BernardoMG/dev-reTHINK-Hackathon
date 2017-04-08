@@ -19,7 +19,7 @@ This Repo is dedicated to help TADHack participants using reTHINK framework for 
 
  * Completeness of the proposed challenge
  
- * Time duration
+ * Duration 
  
  * User interface 
  
