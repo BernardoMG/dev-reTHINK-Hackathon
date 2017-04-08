@@ -24,7 +24,7 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 
 ## Task 1 (`estimation: 20 minutes`)
 
-To accomplish this first task, each team can continue working on the developed application of the first challenge. The only difference is that now the application must use `XHyperty` and `GroupChatManager` hyperties. So, its necessary to deploy the `GroupChatManager` hyperty into the application.
+To accomplish this first task, each team can continue working on the developed application of the first challenge. The only difference is that now the application must use `XHyperty` and `GroupChatManager` hyperties. So, its necessary to deploy the `GroupChatManager` hyperty into the application. This second hyperty is also present in the `hysmart.rethink.ptinovacao.pt` catalogue.
 
 
 ## Task 2 (`estimation: 1 hour and 30 minutes`)
