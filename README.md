@@ -1,7 +1,7 @@
 # reTHINK Hackathon
 
-This Repo is dedicated to help TADHack participants using reTHINK framework for web application development. First, it helps with reTHINK configuration and give some guidelines on how to use it in web applications. Then, a programming challenge is proposed, with several tasks that each participant should accomplish. At the end, is provided a form, which must be filled out by each participant.
-**DIZER NO FINAL DO REPO ESTARA TODA A DOCUMENTAÇÃO DISPONIVEL
+This Repo is dedicated to help TADHack participants using reTHINK framework for web application development. Each team should complete all the proposed challenges above. Don't forget to fill out the survey. If you don't, your participation won+t be considered. At the end, is provided some links with usefull documention. In order to complete all the proposed challenges, its important that each team read the documentation available.
+
  
 ## [1st Challenge](https://github.com/BernardoMG/dev-reTHINK-challenge/blob/master/1st%20Challenge.md)
 
