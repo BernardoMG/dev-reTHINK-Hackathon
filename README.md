@@ -22,9 +22,9 @@ This Repo is dedicated to help TADHack participants using reTHINK framework for 
 
 * [Complete espefication](https://github.com/reTHINK-project/specs)
 
-* [Available Hyperties Documentation](https://github.com/reTHINK-project/dev-hyperty/tree/develop/docs)
+* [Available Hyperties](https://github.com/reTHINK-project/dev-hyperty/tree/develop/docs)
 
-* [GroupChatManager Hyperty Documentation](https://github.com/reTHINK-project/dev-hyperty/tree/develop/docs/group-chat-manager)
+* [GroupChatManager Hyperty](https://github.com/reTHINK-project/dev-hyperty/tree/develop/docs/group-chat-manager)
 
 * [APP Example](https://github.com/reTHINK-project/dev-app/tree/develop)
 
