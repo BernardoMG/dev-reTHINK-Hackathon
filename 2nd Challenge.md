@@ -18,64 +18,48 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 
 #### Note: If you do not fill out this form, your participation wont be considered! 
 
-## Task 1 (`estimation: 45 minutes`)
 
-### Task 1.1:
+## Task 1 (`estimation: 20 minutes`)
 
-`reTHINK distribution files` - To deploy reTHINK runtime in your web application is necessary to execute `rethink.js`. This script can be found in `dev-runtime-browser` repository. There are two ways to obtain this script:
+To acoomplish this first task, your team can continue working on the developed application of the first challenge. The only difference is that now you have to deploy `XHyperty` and `GroupChatManager` hyperties into your application.
 
-* Add the following dependency into your `package.json` file
 
-```shell
-# Add dependency to your package.json file:
-  "dependencies": {
-    "runtime-browser": "reTHINK-project/dev-runtime-browser#develop"
-  },
-```
+## Task 2 (`estimation 1 hour and 30 minutes`)
 
-* Clone the repository using the following command and copy the `bin` folder into the root of your application 
-
-```shell
-# Clone the runtime-browser repository:
-$ git clone --branch=develop https://github.com/reTHINK-project/dev-runtime-browser.git
-```
-
-### Task 1.2:
-
-`Load Runtime` - reTHINK runtime can be obtained after the `rethink.js` execution by your application.
+`Creation of chat rooms` - Chat rooms must be identified by a certain name. When a chat room is created, the user can also provide a list of emails to invite to the chat room. Alternatively, if some user is at a different domain, this must be provided in order to receive the invitation.
 
 ```shell
 #Example
-rethink.default.install({ 
-  domain: runtime_domain,
-  development: true,
-  runtimeURL: runtimeURL
-  }).then((runtime) => {
-    ... 
-});
-```
-
-### Task 1.3:
-
-`Load an Hyperty` - An Hyperty can be loaded using `requireHyperty()` method. For this challenge should be loaded the `XHyperty` and the `GroupChatManaher` hyperties, which are ready to be used in `hybroker.rethink.ptinovacao.pt` catalogue. To deploy it in a successful manner, authentication is mandatory.
-
-```shell
-#Example
-RUNTIME.requireHyperty(hypertyURI(hyperty_domain, 'XHyperty')).then((hyperty) => {
+GroupChatManager.create(identifier, emails, domains).then(function(chatController) => {
   ...
 });
 ```
 
-## Task 3 (`estimation: 45 minutes`)
 
-`Generate a code` - The generated code depends of the name of each team that should be passed as input.
+## Task 3 (`estimation 45 minutes`)
+
+`Join chat room` - As soon as the chat room is created, is generated a URL (`DataObject Reporter URL`) that other users should use if they want to join the chat room.
 
 ```shell
 #Example
-XHyperty.generateCode(name).then((code) => {
+GroupChatManager.join(url).then(function(chatController) => {
   ...
 });
 ```
+
+
+### Task 4 (`estimation 45 minutes`)
+
+`Exchange of messages` - Inside the chat room, users can easly exchange messages between them.
+
+```shell
+#Example
+chatController.send(message).then(function(result) => {
+  ...
+});
+```
+
+
 
 
 
