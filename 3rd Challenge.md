@@ -1,6 +1,8 @@
 # 3rd Challenge
 
-Each team should develop a video conference application that must use an hyperty developed by each team that can be deployed from their local catalogue. With this application, users can make A/V calls between them. To start a call, its only necessary to pass the email address of the other user as input. Alternatively, if some user is at a different domain, this must be provided in order to receive the call. The hyperty should provide functionalities for the establishment and handling of WebRTC A/V connections between two peers (users).
+Each team should develop a video conference application. In addition, each team should also develop an hyperty that provides functionalities for the establishment and handling of WebRTC A/V connections between two peers (users). This hyperty can be deploy from the local catalogue of each team.
+
+With this application, users can make A/V calls between them. To start a call, its only necessary to pass the email address of the other user as input. Alternatively, if some user is at a different domain, this must be provided in order to receive the call. The hyperty should provide functionalities for the establishment and handling of WebRTC A/V connections between two peers (users).
 
 
 ![3rd Challenge](https://github.com/BernardoMG/dev-reTHINK-challenge/blob/master/Figures/2-Challenge.jpg)
