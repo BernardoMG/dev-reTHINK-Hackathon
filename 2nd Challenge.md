@@ -27,7 +27,7 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 To acoomplish this first task, your team can continue working on the developed application of the first challenge. The only difference is that now you have to deploy `XHyperty` and `GroupChatManager` hyperties into your application.
 
 
-## Task 2 (`estimation 1 hour and 30 minutes`)
+## Task 2 (`estimation: 1 hour and 30 minutes`)
 
 `Creation of chat rooms` - Chat rooms must be identified by a certain name. When a chat room is created, the user can also provide a list of emails to invite to the chat room. Alternatively, if some user is at a different domain, this must be provided in order to receive the invitation.
 
@@ -39,7 +39,7 @@ GroupChatManager.create(identifier, emails, domains).then(function(chatControlle
 ```
 
 
-## Task 3 (`estimation 45 minutes`)
+## Task 3 (`estimation: 45 minutes`)
 
 `Join chat room` - As soon as the chat room is created, is generated a URL (`DataObject Reporter URL`) that other users should use if they want to join the chat room.
 
@@ -51,7 +51,7 @@ GroupChatManager.join(url).then(function(chatController) => {
 ```
 
 
-### Task 4 (`estimation 45 minutes`)
+### Task 4 (`estimation: 45 minutes`)
 
 `Exchange of messages` - Inside the chat room, users can easly exchange messages between them.
 
@@ -62,7 +62,8 @@ chatController.send(message).then(function(result) => {
 });
 ```
 
+### Task 4 (`estimation: 20 minutes`)
 
-
+`Generate a code and broadcast to the participants` - The generated code depends of the name of each team that should be passed as input. When the code is received should be send to all the participants of the chat room.
 
 
