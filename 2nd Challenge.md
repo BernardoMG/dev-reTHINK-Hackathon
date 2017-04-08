@@ -11,7 +11,7 @@ Each team should develop a Chat application that uses the `XHyperty` and `GroupC
  * Receive message from group with identity from sender
  
 
-In this application, users can create chat rooms to exchange messages with each other. Each chat room must be identified by a certain name. The ideia is that users can invite others to some specific chat room by indicating their email address. In addition, users can also join some chat room using its identifier. Once inside a chat room, users can exchange messages between them. 
+In this application, users can create chat rooms to exchange messages with each other. Each chat room must be identified by a certain name. The idea is that users can invite others to some specific chat room by indicating their email address. In addition, users can also join some chat room using its identifier. Once inside a chat room, users can exchange messages between them. 
    
 
 ![2nd Challenge](https://github.com/BernardoMG/dev-reTHINK-challenge/blob/master/Figures/2-Challenge.jpg)
@@ -24,7 +24,7 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 
 ## Task 1 (`estimation: 20 minutes`)
 
-To acoomplish this first task, your team can continue working on the developed application of the first challenge. The only difference is that now you have to deploy `XHyperty` and `GroupChatManager` hyperties into your application.
+To accomplish this first task, your team can continue working on the developed application of the first challenge. The only difference is that now you have to deploy `XHyperty` and `GroupChatManager` hyperties into your application.
 
 
 ## Task 2 (`estimation: 1 hour and 30 minutes`)
@@ -53,7 +53,7 @@ GroupChatManager.join(url).then(function(chatController) => {
 
 ### Task 4 (`estimation: 45 minutes`)
 
-`Exchange of messages` - Inside the chat room, users can easly exchange messages between them.
+`Exchange of messages` - Inside the chat room, users can easily exchange messages between them.
 
 ```shell
 #Example
