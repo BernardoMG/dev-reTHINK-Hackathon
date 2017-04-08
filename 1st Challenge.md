@@ -48,7 +48,7 @@ rethink.default.install({
 
 ### Task 1.3:
 
-`Load an Hyperty` - An Hyperty can be loaded using `requireHyperty()` method. For this challenge should be loaded the `XHyperty` hyperty, which is ready to be used in `hybroker.rethink.ptinovacao.pt` catalogue. To deploy it in a successful manner, authentication is mandatory.
+`Load an Hyperty` - An Hyperty can be loaded using `requireHyperty()` method. For this challenge should be loaded the `XHyperty` hyperty, which is ready to be used in `hysmart.rethink.ptinovacao.pt` catalogue. To deploy it in a successful manner, authentication is mandatory.
 
 ```shell
 #Example
