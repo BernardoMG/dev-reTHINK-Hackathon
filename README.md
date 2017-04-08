@@ -15,8 +15,16 @@ This Repo is dedicated to help TADHack participants using reTHINK framework for 
 ## [FORM](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform) 
 
 
-## Criterias
+## Criterias (per challenge)
 
+ * Completeness of the proposed challenge
+ 
+ * Time duration
+ 
+ * User interface 
+ 
+ * Code quality
+ 
 
 ## Usefull documentation
 
