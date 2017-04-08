@@ -9,7 +9,7 @@ This Repo is dedicated to help TADHack participants using reTHINK framework for 
 ## [2nd Challenge](https://github.com/BernardoMG/dev-reTHINK-challenge/blob/master/2nd%20Challenge.md)
 
 
-## 3rd Challenge
+## [3rd Challenge] (https://github.com/BernardoMG/dev-reTHINK-Hackathon/blob/master/3rd%20Challenge.md)
 
 
 ## [FORM](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform) 
