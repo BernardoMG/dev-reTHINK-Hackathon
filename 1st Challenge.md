@@ -57,7 +57,7 @@ RUNTIME.requireHyperty(hypertyURI(hyperty_domain, 'XHyperty')).then((hyperty) =>
 });
 ```
 
-## Task 2 (`estimation: 45 minutes`)
+## Task 2 (`estimation: 30 minutes`)
 
 `Generate a code` - The generated code depends of the name of each team that should be passed as input.
 
