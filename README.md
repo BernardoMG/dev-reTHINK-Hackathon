@@ -24,7 +24,7 @@ This Repo is dedicated to help TADHack participants using reTHINK framework for 
 
 * [Available Hyperties Documentation](https://github.com/reTHINK-project/dev-hyperty/tree/develop/docs)
 
-* [GroupChatManager](https://github.com/reTHINK-project/dev-hyperty/tree/develop/docs/group-chat-manager)
+* [GroupChatManager Hyperty Documentation](https://github.com/reTHINK-project/dev-hyperty/tree/develop/docs/group-chat-manager)
 
 * [APP Example](https://github.com/reTHINK-project/dev-app/tree/develop)
 
