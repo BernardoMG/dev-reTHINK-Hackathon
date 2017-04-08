@@ -12,7 +12,6 @@ Each team should develop a Chat application that uses the `XHyperty` and `GroupC
  
 
 In this application, users can create chat rooms to exchange messages with each other. Each chat room must be identified by a certain name. The ideia is that users can invite others to some specific chat room by indicating their email address. In addition, users can also join some chat room using its identifier. Once inside a chat room, users can exchange messages between them. 
-Each user should be authenticated using their preferred Identity Provider (e.g. Google, Microsoft). reTHINK provides an authentication mecanism, so the developer does not have to handle this.
    
 
 ![2nd Challenge](https://github.com/BernardoMG/dev-reTHINK-challenge/blob/master/Figures/2-Challenge.jpg)
