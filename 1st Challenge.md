@@ -9,7 +9,7 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 
 ### Note: If you do not fill out this Survey, your participation wont be considered! 
 
-## Task 1 (`estimation: 45 minutes`)
+## Task 1 (`estimation: 60 minutes`)
 
 ### Task 1.1:
 
@@ -57,7 +57,7 @@ RUNTIME.requireHyperty(hypertyURI(hyperty_domain, 'XHyperty')).then((hyperty) =>
 });
 ```
 
-## Task 2 (`estimation: 40 minutes`)
+## Task 2 (`estimation: 30 minutes`)
 
 `Generate a code` - The generated code depends of the name of each team that should be passed as input.
 
