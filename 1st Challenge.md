@@ -30,6 +30,7 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 # Clone the runtime-browser repository:
 $ git clone --branch=develop https://github.com/reTHINK-project/dev-runtime-browser.git
 ```
+##
 
 ### Task 1.2:
 
@@ -45,6 +46,7 @@ rethink.default.install({
     ... 
 });
 ```
+##
 
 ### Task 1.3:
 
@@ -70,4 +72,6 @@ XHyperty.generateCode(name).then((code) => {
 
 #### Note: Don't forget to display the generated code on your developed application (HTML page).
 
-### [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform) Page 2!!!
+##
+
+### [Survey Page 2!!!](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform) 
