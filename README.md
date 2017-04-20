@@ -18,14 +18,13 @@ After complete all the proposed challenges, each team must fill out the page 5 (
 
 ## Criterias (per challenge)
 
- * Completeness of the proposed challenge
+ * Completeness 
   
- * User interface 
- 
  * Duration 
  
  * Code quality
- 
+
+ * User interface  
 
 ## Usefull documentation
 
