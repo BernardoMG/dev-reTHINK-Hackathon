@@ -3,7 +3,7 @@
 This Repo is dedicated to help TADHack participants using reTHINK framework for web application development. Each team should complete all the proposed challenges. Don't forget to fill out the survey. If you don't, your participation won't be considered. Each team should take into account all the criterias below, it will be important to reach the first places of the event. In order to complete all the proposed challenges, its important that each team read the available documentation at the end of this repository.
 
  
-## [1st Challenge](https://github.com/BernardoMG/dev-reTHINK-challenge/blob/master/1st%20Challenge.md)
+## [1st Challenge](https://github.com/BernardoMG/dev-reTHINK-challenge/blob/master/1st%20Challenge.md) (`estimation: 1 hour and 30 minutes`)
 
 
 ## [2nd Challenge](https://github.com/BernardoMG/dev-reTHINK-challenge/blob/master/2nd%20Challenge.md)
