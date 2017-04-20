@@ -30,7 +30,6 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 # Clone the runtime-browser repository:
 $ git clone --branch=develop https://github.com/reTHINK-project/dev-runtime-browser.git
 ```
-##
 
 ### Task 1.2:
 
@@ -46,7 +45,6 @@ rethink.default.install({
     ... 
 });
 ```
-##
 
 ### Task 1.3:
 
