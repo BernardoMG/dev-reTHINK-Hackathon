@@ -70,3 +70,4 @@ XHyperty.generateCode(name).then((code) => {
 
 #### Note: Don't forget to display the generated code on your developed application (HTML page).
 
+### [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform) Page 2!!!
