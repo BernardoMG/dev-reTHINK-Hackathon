@@ -6,7 +6,7 @@ This Repo is dedicated to help TADHack participants using reTHINK framework for 
 ## [1st Challenge](https://github.com/BernardoMG/dev-reTHINK-challenge/blob/master/1st%20Challenge.md) (`estimation: 1 hour and 30 minutes`)
 
 
-## [2nd Challenge](https://github.com/BernardoMG/dev-reTHINK-challenge/blob/master/2nd%20Challenge.md)
+## [2nd Challenge](https://github.com/BernardoMG/dev-reTHINK-challenge/blob/master/2nd%20Challenge.md) (`estimation: 3 hour and 20 minutes`)
 
 
 ## [3rd Challenge](https://github.com/BernardoMG/dev-reTHINK-Hackathon/blob/master/3rd%20Challenge.md)
