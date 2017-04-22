@@ -1,6 +1,6 @@
 # 2nd Challenge
 
-Each team should develop a chat application that uses the `XHyperty` and `Group Chat Manager` hyperties that can deployed from the `hysmart.rethink.ptinovacao.pt` catalogue. The `XHyperty` hyperty generates a code according to the name of your team that should be passed an input. The `GroupChatManager` hyperty main functionality is to handle text conversations among groups, including:
+Each team should develop a chat application that uses the `XHyperty` and `Group Chat Manager` hyperties that can deployed from the `hysmart.rethink.ptinovacao.pt` catalogue. The `XHyperty` hyperty generates a code according to the name of your team that should be passed an input. The `Group Chat Manager` hyperty main functionality is to handle text conversations among groups, including:
 
  * Creation of a new Group Chat with possibility to invite users to join it
  
@@ -24,7 +24,7 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 
 ## Task 1 (`estimation: 20 minutes`)
 
-To accomplish this first task, each team can continue working on the developed application of the first challenge. The only difference is that now the application must use `XHyperty` and `GroupChatManager` hyperties. So, its necessary to deploy the `GroupChatManager` hyperty into the application. This second hyperty is also present in the `hysmart.rethink.ptinovacao.pt` catalogue.
+To accomplish this first task, each team can continue working on the developed application of the first challenge. The only difference is that now the application must use `XHyperty` and `Group Chat Manager` hyperties. So, its necessary to deploy the `Group Chat Manager` hyperty into the application. This second hyperty is also present in the `hysmart.rethink.ptinovacao.pt` catalogue.
 
 
 ## Task 2 (`estimation: 1 hour and 30 minutes`)
@@ -66,4 +66,7 @@ chatController.send(message).then(function(result) => {
 
 `Generate a code and broadcast to all the participants` - The generated code depends of the name of each team that should be passed as input. When the code is received should be send to all the participants of the chat room.
 
+##
+
+### [Survey Page 3!!!](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform) 
 
