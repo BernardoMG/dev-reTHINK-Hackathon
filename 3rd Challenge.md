@@ -75,7 +75,7 @@ Open https://localhost/ and select an Hyperty to run.
 
 ## Task 2 (`estimation: 40 minutes`)
 
-`Change XHyperty hyperty` - Inside `dev-hyperty` folder is the source code of each hyperty. The toolkit encodes everything in this folder. To change the `XHyperty` 
+`Change XHyperty hyperty` - Inside `dev-hyperty` folder is the source code of each hyperty (`src` folder). The toolkit encodes everything in this folder. Each team should change the `generateCode(name)` method present in the `XHyperty.hy.js`. 
 
 
 ## Task 3 (`estimation: 15 minutes`)
