@@ -27,7 +27,9 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 To accomplish this first task, each team can continue working on the developed application of the first challenge. The only difference is that now the application must use `XHyperty` and `Group Chat Manager` hyperties. So, its necessary to deploy the `Group Chat Manager` hyperty into the application. This second hyperty is also present in the `hysmart.rethink.ptinovacao.pt` catalogue.
 
 
-## Task 2 (`estimation: 1 hour and 20 minutes`)
+## Task 2 (`estimation: 2 hour and 30 minutes`)
+
+### Task 2.1:
 
 `Creation of chat rooms` - Chat rooms must be identified by a certain name. When a chat room is created, the user can also provide a list of emails to invite to the chat room. Alternatively, if some user is at a different domain, this must be provided in order to receive the invitation.
 
@@ -39,7 +41,7 @@ GroupChatManager.create(identifier, emails, domains).then(function(chatControlle
 ```
 
 
-## Task 3 (`estimation: 40 minutes`)
+### Task 2.2 
 
 `Join chat room` - As soon as the chat room is created, is generated a URL (`DataObject Reporter URL`) that other users should use if they want to join the chat room.
 
@@ -51,7 +53,7 @@ GroupChatManager.join(url).then(function(chatController) => {
 ```
 
 
-### Task 4 (`estimation: 40 minutes`)
+### Task 2.3 
 
 `Exchange of messages` - Inside the chat room, users can easily exchange messages between them.
 
@@ -62,7 +64,7 @@ chatController.send(message).then(function(result) => {
 });
 ```
 
-### Task 5 (`estimation: 20 minutes`)
+### Task 4 (`estimation: 20 minutes`)
 
 `Generate a code and broadcast to all the participants` - The generated code depends of the name of each team that should be passed as input. When the code is received should be send to all the participants of the chat room.
 
