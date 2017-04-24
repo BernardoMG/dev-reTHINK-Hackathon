@@ -73,6 +73,8 @@ Open https://catalogue.localhost/ and accept certificate
 
 Open https://localhost/ and select an Hyperty to run.
 
-# To be completed!!
+## Task 2 (`estimation: 40 minutes`)
+
+## Task 3 (`estimation: 15 minutes`)
 
 ##
