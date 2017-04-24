@@ -12,7 +12,7 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 ### Note: If you do not fill out this form, your participation wont be considered! 
 
 
-## Task 1 (`estimation: 20 minutes`)
+## Task 1 (`estimation: 35 minutes`)
 
 `Hyperty Development Toolkit` - Currently the toolkit can be used to develop hyperties to be executed in the Browser or in the NodeJS. It is essential to use the toolkit in order to change the `XHyperty` hyperty and complete this challenge.
 
