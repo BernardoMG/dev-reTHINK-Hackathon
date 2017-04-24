@@ -34,7 +34,7 @@ $ npm -v
 ```
 
 
-### Task 1.2 
+### Task 1.2: 
 
 `reTHINK environment configuration` 
 
@@ -75,11 +75,11 @@ Open https://localhost/ and select an Hyperty to run.
 
 ## Task 2 (`estimation: 40 minutes`)
 
-### Task 2.1
+### Task 2.1:
 
 `Change XHyperty hyperty` - Inside `dev-hyperty` folder is the source code of each hyperty (`src` folder). The toolkit encodes everything in this folder. Each team should change the `generateCode(String name)` method present in the `XHyperty.hy.js` file. This method should generate a code, that will depend on the input, and a timestamp. Both should be returned.
 
-### Task 2.2
+### Task 2.2:
 
 `Restart toolkit` - Run again the `npm run start:browser` command to star the toolkit and check if everything is encoded correctly. You should not get any error in the terminal.
 
