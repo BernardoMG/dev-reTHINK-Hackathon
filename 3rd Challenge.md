@@ -75,6 +75,9 @@ Open https://localhost/ and select an Hyperty to run.
 
 ## Task 2 (`estimation: 40 minutes`)
 
+`Change XHyperty hyperty` - Inside `dev-hyperty` folder is the source code of each hyperty. The toolkit encodes everything in this folder. To change the `XHyperty` 
+
+
 ## Task 3 (`estimation: 15 minutes`)
 
 ##
