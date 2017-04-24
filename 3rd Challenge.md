@@ -88,7 +88,7 @@ Open https://localhost/ and select an Hyperty to run.
 
 `Generate a code and broadcast to all the participants` - Restart your app and try to generate a new code and broadcast it to all the participants of some chat room.
 
-#### Note: Don't forget that the hyperty domain now is changed. For this challenge, you want to obtain the hyperty from the toolkit, not from the `hysmart.rethink.ptinovacao.pt` catalogue.
+#### Note: Don't forget that the hyperty domain changed. For this challenge, you want to obtain the hyperty from the toolkit, not from the `hysmart.rethink.ptinovacao.pt` catalogue.
 
 ##
 
