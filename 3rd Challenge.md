@@ -16,7 +16,9 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 
 `Hyperty Development Toolkit` - Currently the toolkit can be used to develop hyperties to be executed in the Browser or in the NodeJS. It is essential to use the toolkit in order to change the `XHyperty` hyperty and complete this challenge.
 
-### Task 1.1 NVM, Node and NPM Installation
+### Task 1.1: 
+
+`NVM, Node and NPM Installation`
 
 ```shell
 # NVM Installation
@@ -32,7 +34,9 @@ $ npm -v
 ```
 
 
-### Task 1.2 reTHINK environment configuration 
+### Task 1.2 
+
+`reTHINK environment configuration` 
 
 ```shell
 # clone the toolkit repository:
