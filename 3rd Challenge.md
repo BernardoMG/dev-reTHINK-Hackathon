@@ -81,9 +81,15 @@ Open https://localhost/ and select an Hyperty to run.
 
 ### Task 2.2:
 
-`Restart toolkit` - Run again the `npm run start:browser` command to star the toolkit and check if everything is encoded correctly. You should not get any error in the terminal.
+`Restart toolkit` - Run again the `npm run start:browser` command to start the toolkit and check if everything is encoded correctly. It should not return any error in the terminal.
 
 
 ## Task 3 (`estimation: 15 minutes`)
 
+`Generate a code and broadcast to all the participants` - Restart your app and try to generate a new code and broadcast it to all the participants of some chat room.
+
+#### Note: Don't forget that the hyperty domain now is changed. For this challenge, you want to obtain the hyperty from the toolkit, not from the `hysmart.rethink.ptinovacao.pt` catalogue.
+
 ##
+
+### [Survey Page 4!!!](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform) 
