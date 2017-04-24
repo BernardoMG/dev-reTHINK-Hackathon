@@ -22,7 +22,7 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 ### Note: If you do not fill out this form, your participation wont be considered! 
 
 
-## Task 1 (`estimation: 20 minutes`)
+## Task 1 (`estimation: 15 minutes`)
 
 To accomplish this first task, each team can continue working on the developed application of the first challenge. The only difference is that now the application must use `XHyperty` and `Group Chat Manager` hyperties. So, its necessary to deploy the `Group Chat Manager` hyperty into the application. This second hyperty is also present in the `hysmart.rethink.ptinovacao.pt` catalogue.
 
@@ -64,7 +64,7 @@ chatController.send(message).then(function(result) => {
 });
 ```
 
-### Task 4 (`estimation: 20 minutes`)
+## Task 3 (`estimation: 15 minutes`)
 
 `Generate a code and broadcast to all the participants` - The generated code depends of the name of each team that should be passed as input. When the code is received should be send to all the participants of the chat room.
 
