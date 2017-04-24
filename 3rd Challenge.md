@@ -3,7 +3,7 @@
 Each team should continue working on the previous developed application that uses the `XHyperty` and `Group Chat Manager` hyperties. The goal with this third challenge is to change the `XHyperty` hyperty. Now, whenever a code is generated, it should also generate a timestamp that will return with the generated code to the application.   
 
 
-![3rd Challenge](https://github.com/BernardoMG/dev-reTHINK-challenge/blob/master/Figures/2-Challenge.jpg)
+![3rd Challenge](https://github.com/BernardoMG/dev-reTHINK-Hackathon/blob/master/Figures/3-Challenge.jpg)
 
 
 To overcome this third challenge, each team should accomplish all the tasks bellow. 
