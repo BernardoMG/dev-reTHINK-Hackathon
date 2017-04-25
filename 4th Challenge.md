@@ -17,7 +17,7 @@ Each team should develop a video conference application. This application should
  * Should be possible to make A/V calls at the same time that a chat room is available (exchanging messages)
 
 
-![4th Challenge](https://github.com/BernardoMG/dev-reTHINK-challenge/blob/master/Figures/2-Challenge.jpg)
+![4th Challenge](https://github.com/BernardoMG/dev-reTHINK-Hackathon/blob/master/Figures/4-Challenge.jpg)
 
 
 Your feedback is extremely important for us in order to improve reTHINK framework in the future. As such, after complete all the tasks, each team must fill out the page 4 of this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform). 
