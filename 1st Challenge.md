@@ -9,7 +9,7 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 
 ### Note: If you do not fill out this Survey, your participation wont be considered! 
 
-## Task 1 (`estimation: 60 minutes`)
+## Task 1 (`estimation: 45 minutes`)
 
 ### Task 1.1:
 
