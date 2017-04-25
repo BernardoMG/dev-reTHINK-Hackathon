@@ -84,7 +84,7 @@ Open https://localhost/ and select an Hyperty to run.
 `Restart toolkit` - Run again the `npm run start:browser` command to start the toolkit and check if everything is encoded correctly. It should not return any error in the terminal.
 
 
-## Task 3 (`estimation: 15 minutes`)
+### Task 2.3:
 
 `Generate a code and broadcast to all the participants` - Restart your app and try to generate a new code and broadcast it to all the participants of some chat room.
 
