@@ -4,8 +4,6 @@ Each team should develop a chat application that uses the `XHyperty` and `Group 
 
  * Creation of a new Group Chat with possibility to invite users to join it
  
- * Notification about invitation to join a Group Chat with options to accept or reject
-
  * Send message to group
 
  * Receive message from group with identity from sender
