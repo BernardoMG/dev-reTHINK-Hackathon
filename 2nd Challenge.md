@@ -39,7 +39,7 @@ GroupChatManager.create(identifier, emails, domains).then(function(chatControlle
 ```
 
 
-### Task 2.2 
+### Task 2.2: 
 
 `Join chat room` - As soon as the chat room is created, is generated a URL (`DataObject Reporter URL`) that other users should use if they want to join the chat room.
 
@@ -51,7 +51,7 @@ GroupChatManager.join(url).then(function(chatController) => {
 ```
 
 
-### Task 2.3 
+### Task 2.3: 
 
 `Exchange of messages` - Inside the chat room, users can easily exchange messages between them.
 
