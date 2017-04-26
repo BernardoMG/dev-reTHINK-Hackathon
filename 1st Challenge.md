@@ -1,6 +1,6 @@
 # 1st Challenge
 
-Each team should develop a web application that uses the `XHyperty` hyperty that can be deployed from the `hysmart.rethink.ptinovacao.pt` catalogue. This hyperty generates a code according to the name of each team that should be passed as input. The resulting code should be shown in the developed application.   
+Each team should develop a web application that uses the `Code Generator` hyperty that can be deployed from the `hysmart.rethink.ptinovacao.pt` catalogue. This hyperty generates a code according to the name of each team that should be passed as input. The resulting code should be shown in the developed application.   
 
 ![1st Challenge](https://github.com/BernardoMG/dev-reTHINK-challenge/blob/master/Figures/1-Challenge.jpg)
 
@@ -48,7 +48,7 @@ rethink.default.install({
 
 ### Task 1.3:
 
-`Load an Hyperty` - An Hyperty can be loaded using `requireHyperty()` method. For this challenge should be loaded the `XHyperty` hyperty, which is ready to be used in `hysmart.rethink.ptinovacao.pt` catalogue. To deploy it in a successful manner, authentication is mandatory.
+`Load an Hyperty` - An Hyperty can be loaded using `requireHyperty()` method. For this challenge should be loaded the `Code Generator` hyperty, which is ready to be used in `hysmart.rethink.ptinovacao.pt` catalogue. To deploy it in a successful manner, authentication is mandatory.
 
 ```shell
 #Example
@@ -59,7 +59,7 @@ RUNTIME.requireHyperty(hypertyURI(hyperty_domain, 'XHyperty')).then((hyperty) =>
 
 ## Task 2 (`estimation: 30 minutes`)
 
-`Generate a code` - The generated code depends of the name of each team that should be passed as input.
+`Generate a code` - The generated code depends on the name of each team that should be passed as input.
 
 ```shell
 #Example
