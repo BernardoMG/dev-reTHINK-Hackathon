@@ -1,6 +1,6 @@
 # 3rd Challenge
 
-Each team should continue working on the previous developed application that uses the `XHyperty` and `Group Chat Manager` hyperties. The goal with this third challenge is to change the `XHyperty` hyperty. Now, whenever a code is generated, it should also generate a timestamp that will return with the generated code to the application.   
+Each team should continue working on the previous developed application that uses the `Code Generator` and `Group Chat Manager` hyperties. The goal with this third challenge is to change the `Code Generator` hyperty. Now, whenever a code is generated, it should also generate a timestamp that will return with the generated code to the application.   
 
 
 ![3rd Challenge](https://github.com/BernardoMG/dev-reTHINK-Hackathon/blob/master/Figures/3-Challenge.jpg)
@@ -14,7 +14,7 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 
 ## Task 1 (`estimation: 35 minutes`)
 
-`Hyperty Development Toolkit` - Currently the toolkit can be used to develop hyperties to be executed in the Browser or in the NodeJS. It is essential to use the toolkit in order to change the `XHyperty` hyperty and complete this challenge.
+`Hyperty Development Toolkit` - Currently the toolkit can be used to develop hyperties to be executed in the Browser or in the NodeJS. It is essential to use the toolkit in order to change the `Code Generator` hyperty and complete this challenge.
 
 ### Task 1.1: 
 
@@ -77,11 +77,11 @@ Open https://localhost/ and select an Hyperty to run.
 
 ### Task 2.1:
 
-`Change XHyperty hyperty` - Inside `dev-hyperty` folder is the source code of each hyperty (`src` folder). The toolkit encodes everything in this folder. Each team should change the `generateCode(String name)` method present in the `XHyperty.hy.js` file. This method should generate a code, that will depend on the input, and a timestamp. Both should be returned.
+`Change `Code Generator` hyperty` - Inside `dev-hyperty` folder is the source code of each hyperty (`src` folder). The toolkit encodes everything in this folder. Each team should change the `generateCode(String name)` method present in the `CodeGenerator.hy.js` file. This method should generate a code, that will depend on the input, and a timestamp. Both should be returned.
 
 ### Task 2.2:
 
-`Restart toolkit` - Run again the `npm run start:browser` command to start the toolkit and check if everything is encoded correctly. It should not return any error in the terminal.
+`Restart toolkit` - Run again the `npm run start:browser` command to restart the toolkit and check if everything is correctly encoded. It should not return any error in the terminal.
 
 
 ### Task 2.3:
