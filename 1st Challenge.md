@@ -52,7 +52,7 @@ rethink.default.install({
 
 ```shell
 #Example
-RUNTIME.requireHyperty(hypertyURI(hyperty_domain, 'XHyperty')).then((hyperty) => {
+RUNTIME.requireHyperty(hypertyURI(hyperty_domain, 'CodeGenerator')).then((hyperty) => {
   ...
 });
 ```
@@ -63,7 +63,7 @@ RUNTIME.requireHyperty(hypertyURI(hyperty_domain, 'XHyperty')).then((hyperty) =>
 
 ```shell
 #Example
-XHyperty.generateCode(name).then((code) => {
+CodeGenerator.generateCode(name).then((code) => {
   ...
 });
 ```
