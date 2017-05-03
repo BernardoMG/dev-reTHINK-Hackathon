@@ -13,7 +13,7 @@ Your feedback is extremely important for us, in order to improve the reTHINK fra
 
 ### Task 1.1:
 
-`reTHINK distribution files` - To deploy the reTHINK runtime in your web application, it is necessary to execute `rethink.js`. This script can be found in the `dev-runtime-browser` repository. 
+`reTHINK distribution files` - To deploy the reTHINK runtime in your web application, it is necessary to execute `rethink.js`. This script can be found in the `dev-runtime-browser` repository. There are two ways to obtain this script:
 
 * Clone the repository using the following command and copy the `bin` folder into the root of your application 
 
@@ -22,7 +22,8 @@ Your feedback is extremely important for us, in order to improve the reTHINK fra
 $ git clone --branch=develop https://github.com/reTHINK-project/dev-runtime-browser.git
 ```
 
-* or you can add in your index.html the rethink file script;
+* Or you can add in your index.html the rethink file script;
+
 ```html
  <!DOCTYPE html>
 <html>
@@ -51,7 +52,7 @@ rethink.default.install({
 });
 ```
 
-#### Note: The `domain` and `runtimeURL` fields depends on where the application is deployed. For this case, should be in some local machine.
+#### Note: The `domain` and `runtimeURL` fields depends on where the application is deployed. For this case, should be in your local machine.
 
 
 ### Task 1.3:
