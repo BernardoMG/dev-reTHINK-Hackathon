@@ -37,7 +37,7 @@ rethink.default.install({
 });
 ```
 
-#### Note: The `domain` and `runtimeURL` depends on where the application is deployed. For this case, should be in some local machine, so it should be used `localhost`.
+#### Note: The `domain` and `runtimeURL` fields depends on where the application is deployed. For this case, should be in some local machine.
 
 
 ### Task 1.3:
