@@ -61,7 +61,7 @@ rethink.default.install({
 ```javascript
 const hypertyURI = (hyperty_domain, hyperty) => `hyperty-catalogue://catalogue.${hyperty_domain}/.well-known/hyperty/${hyperty}`;
 
-runtime.requireHyperty(hypertyURI('localhost', 'CodeGenerator')).then((hyperty) => {
+runtime.requireHyperty(hypertyURI('localhost', 'CodeGenerator')).then((CodeGenerator) => {
   ...
 });
 ```
