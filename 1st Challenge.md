@@ -42,7 +42,6 @@ $ git clone --branch=develop https://github.com/reTHINK-project/dev-runtime-brow
 `Load Runtime` - the reTHINK runtime can be obtained after the execution of the `rethink.js` script by your application.
 
 ```javascript
-#Example
 rethink.default.install({ 
   domain: 'localhost',
   development: true,
@@ -60,7 +59,6 @@ rethink.default.install({
 `Load an Hyperty` - An Hyperty can be loaded using `requireHyperty()` method. For this challenge, the `Code Generator` hyperty, which is ready to be used in `hysmart.rethink.ptinovacao.pt` catalogue, should be loaded. To deploy it in a successful manner, authentication is mandatory.
 
 ```javascript
-#Example
 const hypertyURI = (hyperty_domain, hyperty) => `hyperty-catalogue://catalogue.${hyperty_domain}/.well-known/hyperty/${hyperty}`;
 
 runtime.requireHyperty(hypertyURI('localhost', 'CodeGenerator')).then((hyperty) => {
@@ -73,7 +71,6 @@ runtime.requireHyperty(hypertyURI('localhost', 'CodeGenerator')).then((hyperty) 
 `Generate a code` - The generated code depends on the name of each team, which should be passed as input.
 
 ```javascript
-#Example
 CodeGenerator.generateCode(name).then((code) => {
   ...
 });
