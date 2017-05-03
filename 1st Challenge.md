@@ -29,14 +29,16 @@ $ git clone --branch=develop https://github.com/reTHINK-project/dev-runtime-brow
 ```shell
 #Example
 rethink.default.install({ 
-  domain: runtime_domain,
+  domain: 'localhost',
   development: true,
-  runtimeURL: runtimeURL
+  runtimeURL: 'hyperty-catalogue://catalogue.localhost/.well-known/runtime/Runtime'
   }).then((runtime) => {
     ... 
 });
 ```
-<!--RP explain how this is used together with configuration file. There is no distinction between arguments and keywords -->
+
+#### Note: The `domain` and `runtimeURL` depends on where the application is deployed. For this case, should be in some local machine, so it should be used `localhost`.
+
 
 ### Task 1.3:
 
@@ -44,11 +46,12 @@ rethink.default.install({
 
 ```shell
 #Example
-RUNTIME.requireHyperty(hypertyURI(hyperty_domain, 'CodeGenerator')).then((hyperty) => {
+const hypertyURI = (hyperty_domain, hyperty) => `hyperty-catalogue://catalogue.${hyperty_domain}/.well-known/hyperty/${hyperty}`;
+
+runtime.requireHyperty(hypertyURI('localhost', 'CodeGenerator')).then((hyperty) => {
   ...
 });
 ```
-<!--RP Is it "runtime" or "RUNTIME"? Can't it be the same? -->
 
 ## Task 2 (`estimate: 30 minutes`)
 
