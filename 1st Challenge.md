@@ -24,7 +24,7 @@ $ git clone --branch=develop https://github.com/reTHINK-project/dev-runtime-brow
 
 ### Task 1.2:
 
-`Script Execution` - To be able to install reTHINK in your application, should be executed the `rethink.js` script. There are several options to do that. Your team can try the following method that uses the `javascript` and `html` capabilities:
+`Script Execution` - To be able to install reTHINK in your application, should be executed the `rethink.js` script. There are several options to do that. Your team can try the following method that uses the `Javascript` and `HTML` capabilities:
 
 ```shell
 #Example
