@@ -38,6 +38,7 @@ script.src = 'http://localhost:PORT/bin/rethink.js';
 head.appendChild(script);
 ```
 
+#### Note: The `PORT` field represents the port number where your application is being deployed, e.g. `8080`.
 
 ### Task 1.3:
 
@@ -54,7 +55,7 @@ rethink.default.install({
 });
 ```
 
-#### Note: The `domain` and `runtimeURL` fields depends on where the application is deployed. For this case, should be in some local machine.
+#### Note: The `domain` and `runtimeURL` fields depends on where the application is deployed. For this case, should be in your local machine.
 
 
 ### Task 1.4:
