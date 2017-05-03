@@ -13,19 +13,19 @@ Your feedback is extremely important for us, in order to improve the reTHINK fra
 
 ### Task 1.1:
 
-`reTHINK distribution files` - To deploy the reTHINK runtime in your web application, it is necessary to execute `rethink.js`. This script can be found in the `dev-runtime-browser` repository. There are two ways to obtain this script:
+`reTHINK distribution files` - To deploy the reTHINK runtime in your web application, it is necessary to execute `rethink.js`. There are two ways to obtain this script:
 
-* Clone the repository using the following command and copy the `bin` folder into the root of your application 
+* Clone the `dev-runtime-browser` repository using the following command and copy the `bin` folder into the root of your application 
 
 ```shell
 # Clone the runtime-browser repository:
 $ git clone --branch=develop https://github.com/reTHINK-project/dev-runtime-browser.git
 ```
 
-* Or you can add in your index.html the rethink file script;
+* Or you can add in your index.html the rethink file script
 
 ```html
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -41,7 +41,7 @@ $ git clone --branch=develop https://github.com/reTHINK-project/dev-runtime-brow
 
 `Load Runtime` - the reTHINK runtime can be obtained after the execution of the `rethink.js` script by your application.
 
-```shell
+```javascript
 #Example
 rethink.default.install({ 
   domain: 'localhost',
@@ -59,7 +59,7 @@ rethink.default.install({
 
 `Load an Hyperty` - An Hyperty can be loaded using `requireHyperty()` method. For this challenge, the `Code Generator` hyperty, which is ready to be used in `hysmart.rethink.ptinovacao.pt` catalogue, should be loaded. To deploy it in a successful manner, authentication is mandatory.
 
-```shell
+```javascript
 #Example
 const hypertyURI = (hyperty_domain, hyperty) => `hyperty-catalogue://catalogue.${hyperty_domain}/.well-known/hyperty/${hyperty}`;
 
@@ -72,7 +72,7 @@ runtime.requireHyperty(hypertyURI('localhost', 'CodeGenerator')).then((hyperty) 
 
 `Generate a code` - The generated code depends on the name of each team, which should be passed as input.
 
-```shell
+```javascript
 #Example
 CodeGenerator.generateCode(name).then((code) => {
   ...
