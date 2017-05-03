@@ -24,7 +24,24 @@ $ git clone --branch=develop https://github.com/reTHINK-project/dev-runtime-brow
 
 ### Task 1.2:
 
-`Load Runtime` - the reTHINK runtime can be obtained after the execution of the `rethink.js` script by your application.
+`Script Execution` - To be able to install reTHINK in your application, should be executed the `rethink.js` script. There several options to do that. Your team can try the following method that uses the `javascript` and `html` capabilities:
+
+```shell
+#Example
+let head = document.getElementsByTagName('head')[0];
+let script = document.createElement('script');
+script.type = 'text/javascript';
+script.onload = function() {
+... (Task 1.3)
+}
+script.src = 'http://localhost:PORT/bin/rethink.js';
+head.appendChild(script);
+```
+
+
+### Task 1.3:
+
+`Load Runtime` - the reTHINK runtime can be obtained after the instalation of the reTHINK in your application.
 
 ```shell
 #Example
@@ -40,7 +57,7 @@ rethink.default.install({
 #### Note: The `domain` and `runtimeURL` fields depends on where the application is deployed. For this case, should be in some local machine.
 
 
-### Task 1.3:
+### Task 1.4:
 
 `Load an Hyperty` - An Hyperty can be loaded using `requireHyperty()` method. For this challenge, the `Code Generator` hyperty, which is ready to be used in `hysmart.rethink.ptinovacao.pt` catalogue, should be loaded. To deploy it in a successful manner, authentication is mandatory.
 
