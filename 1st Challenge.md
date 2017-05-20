@@ -51,8 +51,6 @@ rethink.default.install({
 });
 ```
 
-#### Note: The `domain` and `runtimeURL` fields depends on where the application is deployed. For this case, should be in your local machine.
-
 
 ### Task 1.3:
 
