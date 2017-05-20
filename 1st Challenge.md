@@ -41,6 +41,8 @@ $ git clone --branch=develop https://github.com/reTHINK-project/dev-runtime-brow
 
 `Load Runtime` - the reTHINK runtime can be obtained after the execution of the `rethink.js` script by your application.
 
+##### NOTE: These domains are right? To be confirmed.
+
 ```javascript
 rethink.default.install({ 
   domain: 'hysmart.rethink.ptinovacao.pt',
