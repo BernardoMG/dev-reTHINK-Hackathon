@@ -43,9 +43,9 @@ $ git clone --branch=develop https://github.com/reTHINK-project/dev-runtime-brow
 
 ```javascript
 rethink.default.install({ 
-  domain: 'localhost',
+  domain: 'hysmart.rethink.ptinovacao.pt',
   development: true,
-  runtimeURL: 'hyperty-catalogue://catalogue.localhost/.well-known/runtime/Runtime'
+  runtimeURL: 'hyperty-catalogue://catalogue.hysmart.rethink.ptinovacao.pt/.well-known/runtime/Runtime'
   }).then((runtime) => {
     ... 
 });
@@ -61,7 +61,7 @@ rethink.default.install({
 ```javascript
 const hypertyURI = (hyperty_domain, hyperty) => `hyperty-catalogue://catalogue.${hyperty_domain}/.well-known/hyperty/${hyperty}`;
 
-runtime.requireHyperty(hypertyURI('localhost', 'CodeGenerator')).then((CodeGenerator) => {
+runtime.requireHyperty(hypertyURI('hysmart.rethink.ptinovacao.pt', 'CodeGenerator')).then((CodeGenerator) => {
   ...
 });
 ```
