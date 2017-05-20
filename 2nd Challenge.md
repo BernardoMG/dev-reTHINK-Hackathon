@@ -1,6 +1,6 @@
 # 2nd Challenge
 
-Each team should develop a chat application that uses the `Code Generator` and `Group Chat Manager` hyperties that can deployed from the `hysmart.rethink.ptinovacao.pt` catalogue. The `Code Generator` hyperty generates a code according to the name of your team that should be passed an input. The `Group Chat Manager` hyperty main functionality is to handle text conversations among groups, including:
+Each team should develop a chat application that uses the `Code Generator Reporter` and `Group Chat Manager` hyperties that can deployed from the `hysmart.rethink.ptinovacao.pt` catalogue. The `Code Generator Reporter` hyperty generates a code according to the name of your team that should be passed an input. The `Group Chat Manager` hyperty main functionality is to handle text conversations among groups, including:
 
  * Creation of a new Group Chat with possibility to invite users to join it
  
@@ -22,7 +22,7 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 
 ## Task 1 (`estimation: 15 minutes`)
 
-To accomplish this first task, each team can continue working on the developed application of the first challenge. The only difference is that now the application must use `Code Generator` and `Group Chat Manager` hyperties. So, its necessary to deploy the `Group Chat Manager` hyperty into the application. This second hyperty is also present in the `hysmart.rethink.ptinovacao.pt` catalogue.
+To accomplish this first task, each team can continue working on the developed application of the first challenge. The only difference is that now the application must use `Code Generator Reporter` and `Group Chat Manager` hyperties. So, its necessary to deploy the `Group Chat Manager` hyperty into the application. This second hyperty is also present in the `hysmart.rethink.ptinovacao.pt` catalogue.
 
 
 ## Task 2 (`estimation: 2 hours and 30 minutes`)
@@ -31,8 +31,12 @@ To accomplish this first task, each team can continue working on the developed a
 
 `Creation of chat rooms` - Chat rooms must be identified by a certain name. When a chat room is created, the user can also provide a list of emails to invite to the chat room. Alternatively, if some user is at a different domain, this must be provided in order to receive the invitation. 
 
+```shell
+# name -> String 
+# emails, domains -> Array
+```
 ```javascript
-GroupChatManager.create(identifier, emails, domains).then(function(chatController) => {
+GroupChatManager.create(name, emails, domains).then(function(chatController) => {
   ...
 });
 ```
