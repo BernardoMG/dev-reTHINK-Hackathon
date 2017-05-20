@@ -14,7 +14,7 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 
 ## Task 1 (`estimation: 35 minutes`)
 
-`Hyperty Development Toolkit` - Currently the toolkit can be used to develop hyperties to be executed in the Browser or in the NodeJS. It is essential to use the toolkit in order to change the `Code Generator` hyperty and complete this challenge.
+`Hyperty Development Toolkit` - Currently the toolkit can be used to develop hyperties to be executed in the Browser or in the NodeJS. It is essential to use the toolkit in order to change the `Code Generator Reporter` hyperty and complete this challenge.
 
 ### Task 1.1: 
 
@@ -77,7 +77,7 @@ Open https://localhost/ and select an Hyperty to run.
 
 ### Task 2.1:
 
-`Change `Code Generator` hyperty` - Inside `dev-hyperty` folder is the source code of each hyperty (`src` folder). The toolkit encodes everything in this folder. Each team should change the `generateCode(String name)` method present in the `CodeGenerator.hy.js` file. This method should generate a code, that will depend on the input, and a timestamp. Both should be returned.
+`Change Code Generator Reporter hyperty` - Inside `dev-hyperty` folder is the source code of each hyperty (`src` folder). The toolkit encodes everything in this folder. Each team should change the `generateCode(name)` method present in the `CodeGeneratorReporter.hy.js` file. This method should generate a code, that will depend on the input, and a timestamp. Both should be returned.
 
 ### Task 2.2:
 
