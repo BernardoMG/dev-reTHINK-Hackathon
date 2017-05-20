@@ -1,6 +1,6 @@
 # 3rd Challenge
 
-Each team should continue working on the previous developed application that uses the `Code Generator Reporter` and `Group Chat Manager` hyperties. The goal with this third challenge is to change the `Code Generator` hyperty. Now, whenever a code is generated, it should also generate a timestamp that will return with the generated code to the application.   
+Each team should continue working on the previous developed application that uses the `Code Generator Reporter` and `Group Chat Manager` hyperties. The goal with this third challenge is to change the `Code Generator Reporter` hyperty. Now, whenever a code is generated, it should also generate a timestamp that will return with the generated code to the application.   
 
 
 ![3rd Challenge](https://github.com/BernardoMG/dev-reTHINK-Hackathon/blob/master/Figures/3-Challenge.jpg)
