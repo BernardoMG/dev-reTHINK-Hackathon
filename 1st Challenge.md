@@ -54,12 +54,12 @@ rethink.default.install({
 
 ### Task 1.3:
 
-`Load an Hyperty` - An Hyperty can be loaded using `requireHyperty()` method. For this challenge, the `Code Generator` hyperty, which is ready to be used in `hysmart.rethink.ptinovacao.pt` catalogue, should be loaded. To deploy it in a successful manner, authentication is mandatory.
+`Load an Hyperty` - An Hyperty can be loaded using `requireHyperty()` method. For this challenge, the `Code Generator Reporter` hyperty, which is ready to be used in `hysmart.rethink.ptinovacao.pt` catalogue, should be loaded. To deploy it in a successful manner, authentication is mandatory.
 
 ```javascript
 const hypertyURI = (hyperty_domain, hyperty) => `hyperty-catalogue://catalogue.${hyperty_domain}/.well-known/hyperty/${hyperty}`;
 
-runtime.requireHyperty(hypertyURI('hysmart.rethink.ptinovacao.pt', 'CodeGenerator')).then((CodeGenerator) => {
+runtime.requireHyperty(hypertyURI('hysmart.rethink.ptinovacao.pt', 'CodeGeneratorReporter')).then((CodeGeneratorReporter) => {
   ...
 });
 ```
@@ -69,7 +69,7 @@ runtime.requireHyperty(hypertyURI('hysmart.rethink.ptinovacao.pt', 'CodeGenerato
 `Generate a code` - The generated code depends on the name of each team, which should be passed as input.
 
 ```javascript
-CodeGenerator.generateCode(name).then((code) => {
+CodeGeneratorReporter.generateCode(team_name).then((code) => {
   ...
 });
 ```
