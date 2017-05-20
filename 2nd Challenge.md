@@ -29,11 +29,9 @@ To accomplish this first task, each team can continue working on the developed a
 
 ### Task 2.1:
 
-`Creation of chat rooms` - Chat rooms must be identified by a certain name. When a chat room is created, the user can also provide a list of emails to invite to the chat room. Alternatively, if some user is at a different domain, this must be provided in order to receive the invitation. 
+`Creation of chat rooms` - Chat rooms must be identified by a certain name (`String`). When a chat room is created, the user can also provide a list of emails (`Array`) to invite to the chat room. Alternatively, if some user is at a different domain, this must be provided in order to receive the invitation (`Array`). 
 
-```shell
-# name -> String 
-# emails, domains -> Array
+```javascript
 GroupChatManager.create(name, emails, domains).then(function(chatController) => {
   ...
 });
