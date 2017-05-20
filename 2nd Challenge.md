@@ -34,8 +34,6 @@ To accomplish this first task, each team can continue working on the developed a
 ```shell
 # name -> String 
 # emails, domains -> Array
-```
-```javascript
 GroupChatManager.create(name, emails, domains).then(function(chatController) => {
   ...
 });
