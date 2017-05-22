@@ -7,7 +7,7 @@ Read carefully the documentation available at the root of this repository. It wi
 ![5th Challenge](https://github.com/BernardoMG/dev-reTHINK-Hackathon/blob/master/Figures/4-Challenge.jpg)
 
 
-Your feedback is extremely important for us in order to improve reTHINK framework in the future. As such, after complete all the tasks, each team must fill out the page 6 of this [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform). 
+Your feedback is extremely important for us in order to improve reTHINK framework in the future. As such, after complete all the tasks, each team must fill out the page 6 of this [Survey](https://github.com/BernardoMG/reTHINK-Beta-Tester-Event/blob/master/Figures/5-Challenge.jpg). 
 
 ### Note: If you do not fill out this form, your participation wont be considered! 
 
