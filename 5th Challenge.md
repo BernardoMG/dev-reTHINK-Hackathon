@@ -1,6 +1,6 @@
 # 5th Challenge
 
-Each team should develop a new hyperty from scratch. The features of this new hyperty is a choice that each team should do, as well as the web application that uses it. Will be valued teams who try to develop innotive hyperties, in terms of functionalities. 
+Each team should develop a new hyperty from scratch. The features of this new hyperty are choice that each team should do, as well as the web application that uses it. Will be valued teams who try to develop innotive hyperties, in terms of functionalities. 
 Read carefully the documentation available at the root of this repository. It will be very useful in order to complete this challenge.
 
 
