@@ -13,6 +13,7 @@ This Repo is dedicated to help the challenge participants use the reTHINK framew
 
 ## [4th Challenge](https://github.com/BernardoMG/dev-reTHINK-Hackathon/blob/master/4th%20Challenge.md) (`estimate: 2 hours and 30 minutes`)
 
+## [5th Challenge](https://github.com/BernardoMG/reTHINK-Beta-Tester-Event/blob/master/5th%20Challenge.md)
 
 ## [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform) 
 
