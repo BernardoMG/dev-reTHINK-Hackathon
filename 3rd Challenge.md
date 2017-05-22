@@ -14,8 +14,9 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 
 ## Task 1 (`estimation: 35 minutes`)
 
-`Hyperty Development Toolkit` - Currently the toolkit can be used to develop hyperties to be executed in the Browser or in the NodeJS. It is essential to use the toolkit in order to change the `Code Generator Reporter` hyperty and complete this challenge.
+`Hyperty Development Toolkit` - Currently the toolkit can be used to develop hyperties to be executed in the Browser or in the NodeJS. It is essential to use the toolkit in order to change the `Code Generator Reporter` hyperty and complete this challenge. In order to configurate properly the Toolkit follow the available documentation [here](https://github.com/reTHINK-project/dev-hyperty-toolkit/blob/develop/README.md)
 
+<!-- 
 ### Task 1.1: 
 
 `NVM, Node and NPM Installation`
@@ -72,6 +73,7 @@ $ sudo setcap 'cap_net_bind_service=+ep' `which node`
 Open https://catalogue.localhost/ and accept certificate
 
 Open https://localhost/ and select an Hyperty to run.
+-->
 
 ## Task 2 (`estimation: 40 minutes`)
 
