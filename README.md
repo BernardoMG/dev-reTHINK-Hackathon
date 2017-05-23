@@ -19,15 +19,8 @@ This Repo is dedicated to help the challenge participants use the reTHINK framew
 
 After completing all the proposed challenges, each team must fill out page 7 (last one) of the [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform). 
 
-## Criterias (per challenge)
+## [Rules](https://github.com/BernardoMG/reTHINK-Beta-Tester-Event/blob/master/rules.md)
 
- * Completeness 
-  
- * Time taken to complete challenge
- 
- * Code quality
-
- * User interface  
 
 ## Usefull documentation
 
