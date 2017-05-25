@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <title></title>
+
+        <link rel="stylesheet" href="/css/bootstrap.min.css">
+        <link rel="stylesheet" href="/css/font-awesome.min.css">
+        <link rel="stylesheet" href="/css/highlight.dark.css">
+        <link rel="stylesheet" href="/css/main.css">
+    </head>
+    <body>
+
+        <header class="navbar navbar-default navbar-fixed-top">
+
+            <a class="navbar-brand" href="/">
+                The title
+                <small class="hidden-xs hidden-sm">
+                    This is the default subtitle!
+                </small>
+            </a>
+
+            
+        </header>
+
+        <main class="container">
+            <div class="row">
+
+                
+                <section id="content" class="col-sm-12">
+                    <h1 id="2nd-challenge">2nd Challenge</h1>
+<p>Each team should develop a chat application that uses the <code>Code Generator Reporter</code> and <code>Group Chat Manager</code> hyperties that can be deployed from the <code>hysmart.rethink.ptinovacao.pt</code> catalogue. The <code>Code Generator Reporter</code> hyperty generates a code according to the name of your team that should be passed an input. The <code>Group Chat Manager</code> hyperty's main functionality is to handle text conversations among groups, including:</p>
+<ul>
+<li>
+<p>Creation of a new Group Chat, with the possibility of inviting users to join it</p>
+</li>
+<li>
+<p>Send message to group</p>
+</li>
+<li>Receive message from group, together with the identity of the sender</li>
+</ul>
+<p>With this application, users can create chat rooms to exchange messages with each other. Each chat room must be identified by a certain name. The idea is that users can invite others to a chat room by indicating their email address. In addition, users can also join some chat room using its identifier. Once inside a chat room, users can exchange messages between them.
+  </p>
+<p><img src="https://github.com/BernardoMG/dev-reTHINK-challenge/blob/master/Figures/2-Challenge.jpg" alt="2nd Challenge" /></p>
+<p>To overcome this second challenge, each team should accomplish all the tasks bellow.
+Your feedback is extremely important for us in order to improve reTHINK framework in the future. As such, after completing all the tasks, each team must fill out the page 3 of this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform">Survey</a>. </p>
+<h3 id="note-if-you-do-not-fill-out-this-form-your-participation-will-not-be-considered">Note: If you do not fill out this form, your participation will not be considered!</h3>
+<h2 id="task-1-">Task 1 (<code>estimate: 15 minutes</code>)</h2>
+<p>To accomplish this first task, each team can continue working on the developed application of the first challenge. The only difference is that now the application must use <code>Code Generator Reporter</code> and <code>Group Chat Manager</code> hyperties. So, it is necessary to deploy the <code>Group Chat Manager</code> hyperty into the application. This second hyperty is also present in the <code>hysmart.rethink.ptinovacao.pt</code> catalogue.</p>
+<h2 id="task-2-">Task 2 (<code>estimate: 2 hours and 30 minutes</code>)</h2>
+<h3 id="task-21">Task 2.1:</h3>
+<p><code>Creation of chat rooms</code> - Chat rooms must be identified by a certain name (<code>String</code>). When a chat room is created, the user can also provide a list of emails (<code>Array</code>) to invite to the chat room. Alternatively, if some user is in a different domain, this must be provided in order to receive the invitation (<code>Array</code>). </p>
+<pre><code class="language-javascript">GroupChatManager.create(name, emails, domains).then(function(chatController) =&gt; {
+  ...
+});</code></pre>
+<h3 id="task-22">Task 2.2:</h3>
+<p><code>Join chat room</code> - As soon as the chat room is created, an URL is generated (<code>DataObject Reporter URL</code>), that other users should use if they want to join the chat room.</p>
+<pre><code class="language-javascript">GroupChatManager.join(url).then(function(chatController) =&gt; {
+  ...
+});</code></pre>
+<h3 id="task-23">Task 2.3:</h3>
+<p><code>Exchange of messages</code> - Inside the chat room, users can easily exchange messages between them.</p>
+<pre><code class="language-javascript">chatController.send(message).then(function(result) =&gt; {
+  ...
+});</code></pre>
+<h2 id="task-3-">Task 3 (<code>estimation: 15 minutes</code>)</h2>
+<p><code>Generate a code and broadcast to all the participants</code> - The generated code depends on the name of each team that should be passed as input. When the code is received, it should be sent to all the participants of the chat room.</p>
+<h2></h2>
+<h3><a href="https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform">Survey Page 3!!!</a></h3>
+                </section>
+
+            </div>
+        </main>
+
+        <footer>
+            <div class="container">
+                <p class="text-muted">
+                    website generated with <a href="http://couscous.io" title="Markdown website generator">Couscous</a>
+                </p>
+            </div>
+        </footer>
+
+        <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+        <script src="//yastatic.net/highlightjs/8.2/highlight.min.js"></script>
+
+        <script>
+            $(function() {
+                $("section>h1").wrap('<div class="page-header" />');
+                // Syntax highlighting
+                hljs.initHighlightingOnLoad();
+            });
+        </script>
+
+    </body>
+</html>
