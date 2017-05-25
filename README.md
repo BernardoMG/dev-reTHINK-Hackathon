@@ -2,7 +2,6 @@
 
 This Repo is dedicated to help the challenge participants use the reTHINK framework for web application development. Each team should complete all the proposed challenges. Do not forget to fill out the survey after each of the challenges. If you do not, your participation will not be considered. Each team should take into account all the criterias below, as these will be taken into account to determine the top places. In order to complete all the proposed challenges, it is important that each team read the available documentation at the end of this repository.
 
- 
 ## [1st Challenge](./1st_Challenge.md) (`estimate: 1 hour and 15 minutes`)
 
 
@@ -15,9 +14,9 @@ This Repo is dedicated to help the challenge participants use the reTHINK framew
 
 ## [5th Challenge](./5th_Challenge.md)
 
-## [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform) 
+## [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform)
 
-After completing all the proposed challenges, each team must fill out page 7 (last one) of the [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform). 
+After completing all the proposed challenges, each team must fill out page 7 (last one) of the [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform).
 
 ## [Rules](./rules.md)
 
@@ -35,6 +34,6 @@ After completing all the proposed challenges, each team must fill out page 7 (la
 * [Hyperty Development](https://github.com/reTHINK-project/dev-hyperty-toolkit/wiki/First-Hyperty-Development)
 
 * [Webinars](https://www.youtube.com/channel/UC4xTKj2ZvhUyJosA_fLeAhg)
- 
- 
-![Supporters](https://github.com/BernardoMG/dev-reTHINK-challenge/blob/master/Figures/Supporters.jpg) 
+
+
+![Supporters](./Figures/Supporters.jpg)
