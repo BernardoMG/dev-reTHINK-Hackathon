@@ -3,17 +3,17 @@
 This Repo is dedicated to help the challenge participants use the reTHINK framework for web application development. Each team should complete all the proposed challenges. Do not forget to fill out the survey after each of the challenges. If you do not, your participation will not be considered. Each team should take into account all the criterias below, as these will be taken into account to determine the top places. In order to complete all the proposed challenges, it is important that each team read the available documentation at the end of this repository.
 
  
-## [1st Challenge](./1st%20Challenge.md) (`estimate: 1 hour and 15 minutes`)
+## [1st Challenge](./1st_Challenge.md) (`estimate: 1 hour and 15 minutes`)
 
 
-## [2nd Challenge](./2nd%20Challenge.md) (`estimate: 3 hours`)
+## [2nd Challenge](./2nd_Challenge.md) (`estimate: 3 hours`)
 
 
-## [3rd Challenge](./3rd%20Challenge.md) (`estimate: 1 hour and 15 minutes`)
+## [3rd Challenge](./3rd_Challenge.md) (`estimate: 1 hour and 15 minutes`)
 
-## [4th Challenge](./4th%20Challenge.md) (`estimate: 2 hours and 30 minutes`)
+## [4th Challenge](./4th_Challenge.md) (`estimate: 2 hours and 30 minutes`)
 
-## [5th Challenge](./5th%20Challenge.md)
+## [5th Challenge](./5th_Challenge.md)
 
 ## [Survey](https://docs.google.com/forms/d/e/1FAIpQLSeFt56Ura0zkTqg_VX9od_jBZtE3-2mt_urTFvxsoRuQ3uJRw/viewform) 
 
