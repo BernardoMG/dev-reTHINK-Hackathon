@@ -83,8 +83,6 @@ Open https://localhost/ and select an Hyperty to run.
 
 `Change Code Generator Reporter hyperty` - Inside the `dev-hyperty` folder is the source code of each hyperty (`src` folder). The toolkit encodes everything in this folder. Each team should change the `generateCode(name)` method present in the `CodeGeneratorReporter.hy.js` file. This method should generate a code, that will depend on the input, and a timestamp. Both should be returned.
 
-#### Note: Use the `betatester` branch of dev-hyperty repository.
-
 <!--
 ### Task 2.2:
 
