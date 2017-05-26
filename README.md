@@ -44,4 +44,4 @@ After completing all the proposed challenges, each team must fill out page 7 (la
 * [Webinars](https://www.youtube.com/channel/UC4xTKj2ZvhUyJosA_fLeAhg)
 
 
-![Supporters](./Figures/Supporters.jpg)
+<!--![Supporters](./Figures/Supporters.jpg)-->
