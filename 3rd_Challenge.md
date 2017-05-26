@@ -16,7 +16,7 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 
 `Hyperty Development Toolkit` - Currently, the toolkit can be used to develop hyperties to be executed in the Browser or in NodeJS. It is essential to use the toolkit in order to change the `Code Generator Reporter` hyperty and complete this challenge. In order to configurate properly the Toolkit follow the available documentation [here](https://github.com/reTHINK-project/dev-hyperty-toolkit/blob/develop/README.md).
 
-#### Note: Use `develop` branch of dev-hyperty-toolkit and dev-hyperty repositories.
+#### Note: Use `develop` branch of dev-hyperty-toolkit repository and `betaTesterEvent` branch of dev-hyperty repository.
 
 <!-- 
 ### Task 1.1: 
