@@ -23,6 +23,8 @@ After completing all the proposed challenges, each team must fill out page 7 (la
 
 ## Usefull documentation
 
+* [reTHINK Wiki](https://github.com/reTHINK-project/startup/wiki)
+
 * [Complete specification](https://github.com/reTHINK-project/specs)
 
 * [Available Hyperties](https://github.com/reTHINK-project/dev-hyperty/tree/develop/docs)
