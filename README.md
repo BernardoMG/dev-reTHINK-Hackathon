@@ -10,7 +10,7 @@ This Repo is dedicated to help the challenge participants use the reTHINK framew
 
 ## [3rd Challenge](./3rd_Challenge.md) (`estimate: 1 hour and 15 minutes`)
 
-## [4th Challenge](./4th_Challenge.md) (`estimate: 2 hours and 30 minutes`)
+## [4th Challenge](./4th_Challenge.md) 
 
 ## [5th Challenge](./5th_Challenge.md)
 
