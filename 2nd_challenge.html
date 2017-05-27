@@ -40,17 +40,17 @@ Your feedback is extremely important for us in order to improve reTHINK framewor
 <h3 id="task-2-">Task 2 (<code>estimate: 2 hours and 30 minutes</code>)</h3>
 <h3 id="task-21">Task 2.1:</h3>
 <p><code>Creation of chat rooms</code> - Chat rooms must be identified by a certain name (<code>String</code>). When a chat room is created, the user can also provide a list of emails (<code>Array</code>) to invite to the chat room. Alternatively, if some user is in a different domain, this must be provided in order to receive the invitation (<code>Array</code>). </p>
-<pre><code class="language-javascript">GroupChatManager.create(name, emails, domains).then(function(chatController) =&gt; {
+<pre><code class="language-javascript">GroupChatManager.create(name, emails, domains).then((chatController) =&gt; {
   ...
 });</code></pre>
 <h3 id="task-22">Task 2.2:</h3>
 <p><code>Join chat room</code> - As soon as the chat room is created, an URL is generated (<code>DataObject Reporter URL</code>), that other users should use if they want to join the chat room.</p>
-<pre><code class="language-javascript">GroupChatManager.join(url).then(function(chatController) =&gt; {
+<pre><code class="language-javascript">GroupChatManager.join(url).then((chatController) =&gt; {
   ...
 });</code></pre>
 <h3 id="task-23">Task 2.3:</h3>
 <p><code>Exchange of messages</code> - Inside the chat room, users can easily exchange messages between them.</p>
-<pre><code class="language-javascript">chatController.send(message).then(function(result) =&gt; {
+<pre><code class="language-javascript">chatController.send(message).then((result) =&gt; {
   ...
 });</code></pre>
 <h3 id="task-3-">Task 3 (<code>estimation: 15 minutes</code>)</h3>
