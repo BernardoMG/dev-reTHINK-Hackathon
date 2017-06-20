@@ -52,7 +52,7 @@ This section of the survey was used to collect information about all participant
 
 5. How much knowledge do you have about web application development?
 
-[1-5](./Figures/Evaluation/1-5.png)
+![1-5](./Figures/Evaluation/1-5.png)
 
 6. Do you have any experience with frameworks for web application development?
   - Yes (5)
@@ -60,11 +60,11 @@ This section of the survey was used to collect information about all participant
 
 7. Select all the programming languages that you already work with.
 
-[1-7]()
+![1-7](./Figures/Evaluation/1-7.png)
 
 8. Select all the frameworks for web application development that you already work with.
 
-[1-8]()
+![1-8](./Figures/Evaluation/1-8.png)
 
 # Survey - First challenge
 
@@ -72,7 +72,7 @@ This section corresponds to the first challenge of the event that each team had 
 
 1. How easy was to include Hyperties in your application?
 
-[2-1]()
+![2-1](./Figures/Evaluation/2-1.png)
 
 Most relevant comments to the previous question:
   * Without the tutorial and further instructions, we would have taken a lot more time.
@@ -80,7 +80,7 @@ Most relevant comments to the previous question:
 
 2. How much knowledge about reTHINK did you think is required?
 
-[2-2]()
+![2-2](./Figures/Evaluation/2-1.png)
 
 Most relevant comments to the previous question:
   * You have to have minimal understanding of the framework (conceptually) to be able to understand how to use it.
