@@ -52,7 +52,7 @@ This section of the survey was used to collect information about all participant
 
 5. How much knowledge do you have about web application development?
 
-[1-5]()
+[1-5](./Figures/Evaluation/1-5.png)
 
 6. Do you have any experience with frameworks for web application development?
   - Yes (5)
