@@ -14,7 +14,7 @@ This event was a success, which allowed to collect a considerable number of answ
 
 # Survey - Teams presentation and background
 
-This section of the survey was used to collect information about all participants. Participants could run alone or in teams of two elements. In total, this event had twelve participants.
+This section of the survey was used to collect information about all participants. Participants could run alone or in teams of two elements. In total, this event had twelve participants divided into eight teams.
 
 1. What is your name?
 
@@ -163,7 +163,7 @@ Most relevant comments to the previous question:
 
 ![2-10](./Figures/Evaluation/2-10.png)
 
-#### Conclusion:
+### Conclusion:
 Each team completed with success this first challenge and we were able to collect very useful feedback about reTHINK and its features. There were positive aspects, such as:
 
   * Even with minimal knowledge about web application development, all participants were able to use reTHINK and complete this challenge;
@@ -277,7 +277,7 @@ Most relevant comments to the previous question:
 
 ![3-13](./Figures/Evaluation/3-13.png)
 
-#### Conclusion:
+### Conclusion:
 Only four teams were able to complete this second challenge with success. In spite of this, it was still possible to collect some useful feedback about reTHINK and its features. There were positive aspects, such as:
 
   * The participants recognized that if they had a bit more practice with the framework, they would use it in future projects;
