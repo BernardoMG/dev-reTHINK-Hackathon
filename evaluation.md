@@ -197,7 +197,7 @@ Most relevant comments to the previous question:
 
 3. How much knowledge about reTHINK did you think is required?
 
-![3-3]()
+![3-3](./Figures/Evaluation/3-3.png)
 
 Most relevant comments to the previous question:
 
@@ -275,7 +275,7 @@ Most relevant comments to the previous question:
 
 13. Classify your experience with reTHINK in this second challenge.
 
-![3-13]()
+![3-13](./Figures/Evaluation/3-13.png)
 
 #### Conclusion:
 Only four teams were able to complete this second challenge with success. In spite of this, it was still possible to collect some useful feedback about reTHINK and its features. There were positive aspects, such as:
