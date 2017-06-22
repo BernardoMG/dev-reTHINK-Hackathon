@@ -121,7 +121,7 @@ Most relevant comments to the previous question:
   - 50min
   - 1h
 
-#### Note: Our estimate for this task was 45 minutes. The average time of the participants was 47,5 minutes.
+##### Note: Our estimate for this task was 45 minutes. The average time of the participants was 47,5 minutes.
 
 6. How much time did you spent in the 2nd task? (estimate)
 
@@ -133,7 +133,7 @@ Most relevant comments to the previous question:
   - 35min
   - 5min
 
-#### Note: Our estimate for this task was 30 minutes. The average time of the participants was 44,375 minutes.
+##### Note: Our estimate for this task was 30 minutes. The average time of the participants was 44,375 minutes.
 
 7. Which task gave you the most trouble? And why?
 
@@ -184,7 +184,7 @@ This section corresponds to the second challenge of the event that each team had
 
 1. How easy was to include more than one Hyperty in your application?
 
-![3-1]()
+![3-1](./Figures/Evaluation/3-1.png)
 
 2. Were the used Hyperties well documented?
 
@@ -221,7 +221,7 @@ Most relevant comments to the previous question:
   - 30min
   - 5min (2)
 
-#### Note: Our estimate for this task was 15 minutes. The average time of the participants was 18,75 minutes.
+##### Note: Our estimate for this task was 15 minutes. The average time of the participants was 18,75 minutes.
 
 6. How much time did you spent in the 2nd task? (estimate)
 
@@ -232,7 +232,7 @@ Most relevant comments to the previous question:
   - 1h40min
   - 2h15min
 
-#### Note: Our estimate for this task was 150 minutes. The average time of the participants was 115 minutes.
+##### Note: Our estimate for this task was 150 minutes. The average time of the participants was 115 minutes.
 
 7. How much time did you spent in the 3rd task? (estimate)
 
@@ -241,7 +241,7 @@ Most relevant comments to the previous question:
   - 40min
   - 45min
 
-#### Note: Our estimate for this task was 15 minutes. The average time of the participants was 25,83 minutes.
+##### Note: Our estimate for this task was 15 minutes. The average time of the participants was 25,83 minutes.
 
 8. Which task gave you the most trouble? And why?
 
