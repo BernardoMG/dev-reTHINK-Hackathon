@@ -143,7 +143,7 @@ Most relevant comments to the previous question:
 
 8. Did you manage to use the Identity Management features?
 
-[2-8](./Figures/Evaluation/2-8.png)
+![2-8](./Figures/Evaluation/2-8.png)
 
 Most relevant comments to the previous question:
 
@@ -161,7 +161,7 @@ Most relevant comments to the previous question:
 
 10. Classify your experience with reTHINK in this first challenge.
 
-[2-10](./Figures/Evaluation/2-10.png)
+![2-10](./Figures/Evaluation/2-10.png)
 
 #### Conclusion:
 Each team completed with success this first challenge and we were able to collect very useful feedback about reTHINK and its features. There were positive aspects, such as:
