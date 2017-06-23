@@ -431,3 +431,46 @@ Unfortunately, no team started to do this challenge, so we could not collected a
 
 
 # Survey - reTHINK Global Evaluation
+
+1. Which framework for web application development would you recommend? And why?
+
+  - reTHINK
+  - Never used frameworks to develop web applications
+  - We haven't used other web frameworks
+  - ReactJs, as it has a healthy community, it is well supported, large heaps of documentation and the developer experience in general is very pleasant.
+  - I don't have enough experience with web frameworks to make a recommendation
+
+2. Taking into account your experience in web application development, how do you compare reTHINK framework with other web frameworks?
+
+  - I liked reTHINK but hadn't much experience with others
+  - We haven't used other web frameworks
+  - All the challenges we did were easy to implement with reTHINK. Unfortunately, we couldn't experience how it would work when used with a real-life application, but we consider it would be manageable. It needs more extensive documentation, especially on the demos.
+  - Again, not enough experience to compare.
+
+3. How easy was to understand the reTHINK documentation?
+
+  ![6-3]()
+
+4. What features of reTHINK framework looks more promising to you?
+
+  - The fast chatrooms creations
+  - It's ease to use in projects. Doesn't require much to run in a script
+  - We think the most important feature (killer-app) of the reTHINK framework is the possibility of completely different and independent developers developing compatible applications without needing to standardize protocols
+  - The best thing about reTHINK is how simple it is to take the "plug-and-play" hyperties and build an application out of them
+
+5. In your opinion, what are the main benefits of using Hyperties?
+
+  - The mainly benefits is maybe the with some training you could achieves good results fast
+  - It's easy to use Hyperties in an application
+  - Hyperties shine when developing complex applications that need to interact with different domains. It simplifies the process of managing connections, domains, etc, which greatly improves the developer experience
+  - Easy discovery. Things seem to "just work" (at least when they don't timeout)
+
+6. What features would you like to see in reTHINK framework?
+
+  - For now none, but we still have to explore the framework better
+  - Built-in integration with front-end frameworks and examples
+  - More hyperties! I think the best way to popularize it would be to have the basic building blocks ready, so you can quickly build an application out of them
+
+7. Would you recommend reTHINK framework?
+
+  ![6-7]()
