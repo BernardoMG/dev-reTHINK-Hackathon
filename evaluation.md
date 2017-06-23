@@ -73,7 +73,7 @@ This section of the survey was used to collect information about all participant
 
 # Survey - First challenge
 
-This section corresponds to the first challenge of the event that each team had to complete. Basically, the main goal of this first challenge was to provide the first contact with the reTHINK framework. Each team had to developed a simple web application that uses an hyperty called CodeGeneratorReporter, taking advantage of its features. This challenge was divided into two tasks. The first task was to install the reTHINK framework and to load the CodeGeneratorReporter hyperty. The second task was to use the features of the loaded hyperty.
+This section corresponds to the first challenge of the event that each team had to complete. Basically, the main goal of this first challenge was to provide the first contact with the reTHINK framework. Each team had to developed a simple web application that uses an hyperty called CodeGeneratorReporter, taking advantage of its features. This hyperty provides a numerical code depending of the team name that should be passed as input. This challenge was divided into two tasks. The first task was to install the reTHINK framework and to load the CodeGeneratorReporter hyperty. The second task was to use the features of the loaded hyperty.
 
 1. How easy was to include Hyperties in your application?
 
@@ -293,3 +293,72 @@ However, we collect also some negative aspects that should be considered, such a
 
 
 # Survey - Third challenge
+
+This section corresponds to the third challenge of the event that each team had to complete. Basically, the main goal of this third challenge was to change the CodeGeneratorReporter hyperty functionality, reusing the previous developed application. Now, this hyperty should generate a code and a timestamp depending of the team name that should be passed as input. This challenge was divided into two tasks. The first task was to configure the hyperty toolkit, following the available documentation on the reTHINK repository. The second task was to change the hyperty functionality and to use it in the developed application.
+
+1. How easy was to setup the reTHINK environment in your local machine?
+
+  ![4-1]()
+
+Most relevant comments to the previous question:
+
+  * We had problems installing the correct branch (so, our fault), but the branch had a mistake.
+
+2. How much knowledge about reTHINK did you think is required?
+
+  ![4-2]()
+
+3. How much time did you spent reading the documentation? (estimate)
+
+  - 10min (2)
+  - 3h
+  - 30min
+
+4. Did you have problems with the reTHINK environment configuration? Justify.
+
+  * No (2)
+  * No, most problems were small mistakes on the developer's end.
+  * My Ubuntu 17.04 did not have a "node" binary, instead it is called "nodejs". I had to apt install nodejs-legacy for the build to work.  I also had a problem when running it because it was trying to bind to a low port (<1024). I figured it out pretty quickly, but the error message is not very descriptive. I also eventually found a note about this in the Wiki, but by that time I had already Googled the problem and solved it. It would be better to mention it in the README, because everyone who uses Linux is going to have the same problem.
+
+5. How much time did you spent in the 1st task? (estimation)
+
+  - 1h30min
+  - 25min
+  - 1h
+  - 30min
+
+#### Note: Our estimate for this task was 35 minutes. The average time of the participants was 51,25 minutes.
+
+6. How much time did you spent in the 2nd task? (estimation)
+
+  - 5min
+  - 0
+  - 20min
+  - 3h
+
+#### Note: Our estimate for this task was 40 minutes. The average time of the participants was 51,25 minutes.
+
+7. How easy was to change the Hyperty functionality?
+
+  ![4-7]()
+
+8. Let us know what limitations you found and how you would improve it.
+
+  * Only being able to have 1 tab open loading a certain hyperty lost us a bit of time.
+
+9. Classify your experience with reTHINK in this third challenge.
+
+  ![4-9]()
+
+#### Conclusion:
+Only two teams were able to complete this third challenge with success. In spite of this, it was still possible to collect some useful feedback about the development of hyperties. There were positive aspects, such as:
+
+  * Most of the participants considered easy to setup the reTHINK development environment (hyperty toolkit);
+  * Most of the participants considered easy to change the hyperty functionality.
+
+However, we collect also some negative aspects that should be considered, such as:
+
+  * Lack of documentation;
+  * Only being able to have 1 tab open loading a certain hyperty.
+
+# Survey - Fourth challenge
