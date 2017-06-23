@@ -20,22 +20,7 @@ This event was a success, which allowed to collect a considerable number of answ
 
 This section of the survey was used to collect information about all participants. Participants could run alone or in teams of two elements. In total, this event had twelve participants divided into eight teams.
 
-1. What is your name?
-
-  - Fabian Naef
-  - Pedro Rocha
-  - Ivo Pires
-  - CLAUDE-ROGER ISMAN
-  - Vitor Paiva
-  - Pedro Cipriano
-  - Adriano da Conceição Anastácio
-  - Diogo Pereira
-  - Filipe Correia
-  - Luis Oliveira
-  - Raquel Cristóvão
-  - Tiago Mourão Lopes
-
-2. How old are you?
+1. How old are you?
 
   - 20 (3)
   - 23 (3)
@@ -44,12 +29,12 @@ This section of the survey was used to collect information about all participant
   - 22
   - 21
 
-3. What is your genre?
+2. What is your genre?
 
   - Male (11) - 91,67%
   - Female (1) - 8,33%
 
-4. What is your academic background?
+3. What is your academic background?
 
   - Electronics and Electrical Engineering (2)
   - MSC
@@ -58,20 +43,20 @@ This section of the survey was used to collect information about all participant
   - Telecommunications Engineer
   - ENGINEER ( X67 + ENPC72 )
 
-5. How much knowledge do you have about web application development?
+4. How much knowledge do you have about web application development?
 
 ![1-5](./Figures/Evaluation/1-5.png)
 
-6. Do you have any experience with frameworks for web application development?
+5. Do you have any experience with frameworks for web application development?
 
   - Yes (5) - 58,33
   - No (7) - 41,67
 
-7. Select all the programming languages that you already work with.
+6. Select all the programming languages that you already work with.
 
 ![1-7](./Figures/Evaluation/1-7.png)
 
-8. Select all the frameworks for web application development that you already work with.
+7. Select all the frameworks for web application development that you already work with.
 
 ![1-8](./Figures/Evaluation/1-8.png)
 
@@ -480,3 +465,14 @@ This section of the survey was used to make an overall evaluation about reTHINK.
 7. Would you recommend reTHINK framework?
 
   ![6-7](./Figures/Evaluation/6-7.png)
+
+#### Conclusion:
+Taking into account all the feedback, the overall evaluation of reTHINK seems promising. There were positive aspects, such as:
+
+  * Most of the participants were very enthusiastic about the framework;
+  * Most of the participants suggested new features for reTHINK framework
+
+However, we collect also some negative aspects that should be considered, such as:
+
+  * The documentation needs a few improvements in order to be more understandable;
+  * Participants would like to see more hyperties in reTHINK.
