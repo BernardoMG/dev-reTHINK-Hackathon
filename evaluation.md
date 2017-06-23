@@ -361,4 +361,73 @@ However, we collect also some negative aspects that should be considered, such a
   * Lack of documentation;
   * Only being able to have 1 tab open loading a certain hyperty.
 
+
 # Survey - Fourth challenge
+
+This section corresponds to the fourth challenge of the event that each team had to complete. Basically, the main goal of this fourth challenge was to develop a video conference application. This application should cover some functional requirements, such as creation of chat rooms with the possibility of inviting users to join in, A/V calls between users and the possibility to make A/V calls at the same time that a chat room is available (exchanging messages). This was an open challenge in which the participants could choose hyperties already available or develop their own hyperties.
+
+Unfortunately, neither team managed to finish this challenge in time. Below are listed all the questions and some of the collected answers.
+
+1. Did you choose to develop new Hyperties? If yes, describe them briefly. If not, pass to the sixth question.
+
+2. How easy was to develop new Hyperties?
+
+3. How much knowledge about reTHINK did you think is required?
+
+4. How much time did you spent reading the documentation? (estimate)
+
+5. Which features did you tried to implement that gave you the most trouble? After answer to this question, pass to the tenth question.
+
+6. Which Hyperties did you use?
+
+    - CodeGeneratorReporter, GroupChatManager and Connector
+    - GroupChatManager
+
+7. In your opinion, how hard would it be to develop new hyperties?
+
+  ![5-7]()
+
+Most relevant comments to the previous question:
+
+  * We didn't have time to attempt to create a hyperty from scratch, so we cannot infer the difficulty. Based on changes made in challenge 3, it seems manageable.
+  * It's hard to tell. Modifying the hyperty in challenge 3 was very easy, but I did not have the chance to build a new one from scratch. Still, looking at the code of the existing hyperties, it does not seem too difficult.
+
+8. Did you try to change or add new functionalities to the used Hyperties?
+
+  - No (2)
+  - Yes (0)
+
+9. If your answer to the previous question was "yes", what did you try to implement?
+
+10. Let us know what limitations you found and how you would improve it.
+
+11. Classify your experience with reTHINK in this fourth challenge.
+
+  ![5-11]()
+
+# Survey - Fifth challenge
+
+This section corresponds to the fifth challenge of the event that each team had to complete. Basically, the main goal of this fifth challenge was to develop a new hyperty from scratch. Each team was free to design the hyperty, as well as the web application that uses it.
+
+Unfortunately, no team started to do this challenge, so we could not collected answers. Below are listed all the questions.
+
+1. Describe briefly the developed web application.
+
+2. Describe briefly the developed hyperties.
+
+3. How easy was to develop new Hyperties?
+
+4. How much knowledge about reTHINK did you think is required?
+
+5. How much time did you spent reading the documentation? (estimate)
+
+6. How useful and complete is the available documentation to support the development of Hyperties?
+
+7. Please provide your suggestions to improve the documentation.
+
+8. Which features did you tried to implement that gave you the most trouble?
+
+9. Classify your experience with reTHINK in this fifth challenge.
+
+
+# Survey - reTHINK Global Evaluation
