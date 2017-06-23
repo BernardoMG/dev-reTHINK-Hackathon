@@ -434,7 +434,9 @@ Unfortunately, no team started to do this challenge, so we could not collected a
 9. Classify your experience with reTHINK in this fifth challenge.
 
 
-# Survey - reTHINK Global Evaluation
+# Survey - reTHINK Overall Evaluation
+
+This section of the survey was used to make an overall evaluation about reTHINK.
 
 1. Which framework for web application development would you recommend? And why?
 
