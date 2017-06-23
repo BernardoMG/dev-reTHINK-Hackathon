@@ -6,11 +6,15 @@ The feedback collected from this survey will be used to detect and improve all t
 
 This event was a success, which allowed to collect a considerable number of answers. The following preliminary conclusions are highlighted:
 
-  *
-  *
-  *
-  *
-  *
+  *	Participants found Hyperties are easily integrated in Apps. However, more examples are required
+  * All participants considered reTHINK easy to use
+  * The reTHINK library logging is too verbose
+  * Documentation needs a huge improvement
+  * All participants recognized that would use reTHINK framework again in future projects
+  * Would be great if reTHINK works in different browsers
+  * Authentication GUI needs improvements in terms of user interface
+  * The Hyperty toolkit was appreciated by participants
+  * Would be great if reTHINK had built-in integration with front-end frameworks and examples
 
 # Survey - Teams presentation and background
 
