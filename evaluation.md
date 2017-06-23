@@ -14,7 +14,7 @@ This event was a success, which allowed to collect a considerable number of answ
 
 # Survey - Teams presentation and background
 
-This section of the survey was used to collect information about all participants. Participants could run alone or in teams of two elements. In total, this event had twelve participants.
+This section of the survey was used to collect information about all participants. Participants could run alone or in teams of two elements. In total, this event had twelve participants divided into eight teams.
 
 1. What is your name?
 
@@ -121,7 +121,7 @@ Most relevant comments to the previous question:
   - 50min
   - 1h
 
-#### Note: Our estimate for this task was 45 minutes. The average time of the participants was 47,5 minutes.
+##### Note: Our estimate for this task was 45 minutes. The average time of the participants was 47,5 minutes.
 
 6. How much time did you spent in the 2nd task? (estimate)
 
@@ -133,7 +133,7 @@ Most relevant comments to the previous question:
   - 35min
   - 5min
 
-#### Note: Our estimate for this task was 30 minutes. The average time of the participants was 44,375 minutes.
+##### Note: Our estimate for this task was 30 minutes. The average time of the participants was 44,375 minutes.
 
 7. Which task gave you the most trouble? And why?
 
@@ -163,7 +163,7 @@ Most relevant comments to the previous question:
 
 ![2-10](./Figures/Evaluation/2-10.png)
 
-#### Conclusion:
+### Conclusion:
 Each team completed with success this first challenge and we were able to collect very useful feedback about reTHINK and its features. There were positive aspects, such as:
 
   * Even with minimal knowledge about web application development, all participants were able to use reTHINK and complete this challenge;
@@ -184,7 +184,7 @@ This section corresponds to the second challenge of the event that each team had
 
 1. How easy was to include more than one Hyperty in your application?
 
-![3-1]()
+![3-1](./Figures/Evaluation/3-1.png)
 
 2. Were the used Hyperties well documented?
 
@@ -197,7 +197,7 @@ Most relevant comments to the previous question:
 
 3. How much knowledge about reTHINK did you think is required?
 
-![3-3]()
+![3-3](./Figures/Evaluation/3-3.png)
 
 Most relevant comments to the previous question:
 
@@ -221,7 +221,7 @@ Most relevant comments to the previous question:
   - 30min
   - 5min (2)
 
-#### Note: Our estimate for this task was 15 minutes. The average time of the participants was 18,75 minutes.
+##### Note: Our estimate for this task was 15 minutes. The average time of the participants was 18,75 minutes.
 
 6. How much time did you spent in the 2nd task? (estimate)
 
@@ -232,7 +232,7 @@ Most relevant comments to the previous question:
   - 1h40min
   - 2h15min
 
-#### Note: Our estimate for this task was 150 minutes. The average time of the participants was 115 minutes.
+##### Note: Our estimate for this task was 150 minutes. The average time of the participants was 115 minutes.
 
 7. How much time did you spent in the 3rd task? (estimate)
 
@@ -241,7 +241,7 @@ Most relevant comments to the previous question:
   - 40min
   - 45min
 
-#### Note: Our estimate for this task was 15 minutes. The average time of the participants was 25,83 minutes.
+##### Note: Our estimate for this task was 15 minutes. The average time of the participants was 25,83 minutes.
 
 8. Which task gave you the most trouble? And why?
 
@@ -275,9 +275,9 @@ Most relevant comments to the previous question:
 
 13. Classify your experience with reTHINK in this second challenge.
 
-![3-13]()
+![3-13](./Figures/Evaluation/3-13.png)
 
-#### Conclusion:
+### Conclusion:
 Only four teams were able to complete this second challenge with success. In spite of this, it was still possible to collect some useful feedback about reTHINK and its features. There were positive aspects, such as:
 
   * The participants recognized that if they had a bit more practice with the framework, they would use it in future projects;
