@@ -298,7 +298,7 @@ This section corresponds to the third challenge of the event that each team had 
 
 1. How easy was to setup the reTHINK environment in your local machine?
 
-  ![4-1]()
+  ![4-1](./Figures/Evaluation/4-1.png)
 
 Most relevant comments to the previous question:
 
@@ -306,7 +306,7 @@ Most relevant comments to the previous question:
 
 2. How much knowledge about reTHINK did you think is required?
 
-  ![4-2]()
+  ![4-2](./Figures/Evaluation/4-2.png)
 
 3. How much time did you spent reading the documentation? (estimate)
 
@@ -340,7 +340,7 @@ Most relevant comments to the previous question:
 
 7. How easy was to change the Hyperty functionality?
 
-  ![4-7]()
+  ![4-7](./Figures/Evaluation/4-7.png)
 
 8. Let us know what limitations you found and how you would improve it.
 
@@ -348,7 +348,7 @@ Most relevant comments to the previous question:
 
 9. Classify your experience with reTHINK in this third challenge.
 
-  ![4-9]()
+  ![4-9](./Figures/Evaluation/4-9.png)
 
 #### Conclusion:
 Only two teams were able to complete this third challenge with success. In spite of this, it was still possible to collect some useful feedback about the development of hyperties. There were positive aspects, such as:
