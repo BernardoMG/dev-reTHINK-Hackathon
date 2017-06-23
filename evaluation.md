@@ -449,7 +449,7 @@ Unfortunately, no team started to do this challenge, so we could not collected a
 
 3. How easy was to understand the reTHINK documentation?
 
-  ![6-3]()
+  ![6-3](./Figures/Evaluation/6-3.png)
 
 4. What features of reTHINK framework looks more promising to you?
 
@@ -473,4 +473,4 @@ Unfortunately, no team started to do this challenge, so we could not collected a
 
 7. Would you recommend reTHINK framework?
 
-  ![6-7]()
+  ![6-7](./Figures/Evaluation/6-7.png)
