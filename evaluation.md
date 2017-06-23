@@ -470,7 +470,7 @@ This section of the survey was used to make an overall evaluation about reTHINK.
 Taking into account all the feedback, the overall evaluation of reTHINK seems promising. There were positive aspects, such as:
 
   * Most of the participants were very enthusiastic about the framework;
-  * Most of the participants suggested new features for reTHINK framework
+  * Most of the participants suggested new features.
 
 However, we collect also some negative aspects that should be considered, such as:
 
