@@ -385,12 +385,12 @@ Unfortunately, neither team managed to finish this challenge in time. Below are 
 
 7. In your opinion, how hard would it be to develop new hyperties?
 
-  ![5-7]()
+  ![5-7](./Figures/Evaluation/5-7.png)
 
 Most relevant comments to the previous question:
 
-  * We didn't have time to attempt to create a hyperty from scratch, so we cannot infer the difficulty. Based on changes made in challenge 3, it seems manageable.
-  * It's hard to tell. Modifying the hyperty in challenge 3 was very easy, but I did not have the chance to build a new one from scratch. Still, looking at the code of the existing hyperties, it does not seem too difficult.
+  * We didn't have time to attempt to create a hyperty from scratch, so we cannot infer the difficulty. Based on changes made in challenge 3, it seems manageable
+  * It's hard to tell. Modifying the hyperty in challenge 3 was very easy, but I did nothave the chance to build a new one from scratch. Still, looking at the code of the existing hyperties, it does not seem too difficult.
 
 8. Did you try to change or add new functionalities to the used Hyperties?
 
@@ -403,7 +403,7 @@ Most relevant comments to the previous question:
 
 11. Classify your experience with reTHINK in this fourth challenge.
 
-  ![5-11]()
+  ![5-11](./Figures/Evaluation/5-11.png)
 
 # Survey - Fifth challenge
 
