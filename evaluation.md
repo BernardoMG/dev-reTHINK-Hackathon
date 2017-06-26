@@ -21,27 +21,21 @@ This event was a success, which allowed to collect a considerable number of answ
 This section of the survey was used to collect information about all participants. Participants could run alone or in teams of two elements. In total, this event had twelve participants divided into eight teams.
 
 1. How old are you?
-
-  - 20 (3)
-  - 23 (3)
-  - 70
-  - 28 (2)
-  - 22
-  - 21
+  - 20-25 (8)
+  - 25-30 (1)
+  - >30 (1)
 
 2. What is your genre?
 
-  - Male (11) - 91,67%
-  - Female (1) - 8,33%
+  - Male (11) - 92%
+  - Female (1) - 8%
 
 3. What is your academic background?
 
-  - Electronics and Electrical Engineering (2)
-  - MSC
-  - BSC
-  - Computer Science Engineer (5)
-  - Telecommunications Engineer
-  - ENGINEER ( X67 + ENPC72 )
+  - Electronics and Electrical Engineering (2) - 18%
+  - Computer Science Engineer (7) - 64%
+  - Telecommunications Engineer - 9%
+  - ENGINEER ( X67 + ENPC72 ) - 9%
 
 4. How much knowledge do you have about web application development?
 
@@ -49,8 +43,8 @@ This section of the survey was used to collect information about all participant
 
 5. Do you have any experience with frameworks for web application development?
 
-  - Yes (5) - 58,33
-  - No (7) - 41,67
+  - Yes (5) - 58%
+  - No (7) - 42%
 
 6. Select all the programming languages that you already work with.
 
@@ -73,7 +67,7 @@ Most relevant comments to the previous question:
   * Without the tutorial and further instructions, we would have taken a lot more time.
   * After launching and installing, it was difficult to understand that authentication was needed and where to find to google button to authenticate
 
-2. How much knowledge about reTHINK did you think is required?
+2. How much knowledge about reTHINK do you think is required to use it?
 
 ![2-2](./Figures/Evaluation/2-1.png)
 
@@ -84,17 +78,17 @@ Most relevant comments to the previous question:
 
 3. How much time did you spent reading the documentation? (estimate)
 
-  - 2h
-  - 20min (2)
   - 10min
-  - 30min
   - 15min (2)
+  - 20min (2)
+  - 30min
   - 1h
+  - 2h
 
 4. Did you manage to easily test and debug your application?
 
-  - Yes (8) - 100%
-  - No (0)
+  - Yes - 100%
+  - No - 0%
 
 Most relevant comments to the previous question:
 
@@ -102,27 +96,27 @@ Most relevant comments to the previous question:
 
 5. How much time did you spent in the 1st task? (estimate)
 
-  - 15min (2)
   - 10min
-  - 30min
-  - 3h
+  - 15min (2)
   - 20min
+  - 30min
   - 50min
   - 1h
+  - 3h
 
-##### Note: Our estimate for this task was 45 minutes. The average time of the participants was 47,5 minutes.
+##### Note: Our estimate for this task was 45 minutes. The average time of the participants was 48 minutes.
 
 6. How much time did you spent in the 2nd task? (estimate)
 
+  - 5min
   - 10min
+  - 20min
+  - 35min
   - 1h
   - 1h45min
   - 2h (2)
-  - 20min
-  - 35min
-  - 5min
 
-##### Note: Our estimate for this task was 30 minutes. The average time of the participants was 44,375 minutes.
+##### Note: Our estimate for this task was 30 minutes. The average time of the participants was 44 minutes.
 
 7. Which task gave you the most trouble? And why?
 
@@ -177,14 +171,14 @@ This section corresponds to the second challenge of the event that each team had
 
 2. Were the used Hyperties well documented?
 
-  - Yes (5) - 62,5%
-  - No (3) - 37,5%
+  - Yes - 62,5%
+  - No - 37,5%
 
 Most relevant comments to the previous question:
 
   * The documentation is OK, but sometimes not entirely clear.
 
-3. How much knowledge about reTHINK did you think is required?
+3. How much knowledge about reTHINK do you think is required to use it?
 
 ![3-3](./Figures/Evaluation/3-3.png)
 
@@ -194,32 +188,32 @@ Most relevant comments to the previous question:
 
 4. How much time did you spent reading the documentation? (estimate)
 
-  - 1h
-  - 5min (5min)
-  - 2h
+  - 5min (2)
+  - 15min
   - 20min
   - 30min
+  - 1h
+  - 2h
   - 3h
-  - 15min
 
 5. How much time did you spent in the 1st task? (estimate)
 
-  - 1h
+  - 5min (2)
   - 10min (2)
   - 20min (2)
   - 30min
-  - 5min (2)
+  - 1h
 
-##### Note: Our estimate for this task was 15 minutes. The average time of the participants was 18,75 minutes.
+##### Note: Our estimate for this task was 15 minutes. The average time of the participants was 19 minutes.
 
 6. How much time did you spent in the 2nd task? (estimate)
 
-  - 2h
   - 30min
-  - 3h (2)
   - 1h
   - 1h40min
+  - 2h
   - 2h15min
+  - 3h (2)
 
 ##### Note: Our estimate for this task was 150 minutes. The average time of the participants was 115 minutes.
 
@@ -230,7 +224,7 @@ Most relevant comments to the previous question:
   - 40min
   - 45min
 
-##### Note: Our estimate for this task was 15 minutes. The average time of the participants was 25,83 minutes.
+##### Note: Our estimate for this task was 15 minutes. The average time of the participants was 26 minutes.
 
 8. Which task gave you the most trouble? And why?
 
@@ -239,8 +233,8 @@ Most relevant comments to the previous question:
 
 9. If you had to implement another chat application would you choose reTHINK framework again?
 
-  - Yes (6) - 100%
-  - No (0)
+  - Yes -  100%
+  - No - 0%
 
 10. Justify your answer to the previous question.
 
@@ -300,8 +294,8 @@ Most relevant comments to the previous question:
 3. How much time did you spent reading the documentation? (estimate)
 
   - 10min (2)
-  - 3h
   - 30min
+  - 3h
 
 4. Did you have problems with the reTHINK environment configuration? Justify.
 
@@ -311,21 +305,21 @@ Most relevant comments to the previous question:
 
 5. How much time did you spent in the 1st task? (estimation)
 
-  - 1h30min
   - 25min
-  - 1h
   - 30min
+  - 1h
+  - 1h30min
 
-#### Note: Our estimate for this task was 35 minutes. The average time of the participants was 51,25 minutes.
+#### Note: Our estimate for this task was 35 minutes. The average time of the participants was 51 minutes.
 
 6. How much time did you spent in the 2nd task? (estimation)
 
+  - 0min
   - 5min
-  - 0
   - 20min
   - 3h
 
-#### Note: Our estimate for this task was 40 minutes. The average time of the participants was 51,25 minutes.
+#### Note: Our estimate for this task was 40 minutes. The average time of the participants was 51 minutes.
 
 7. How easy was to change the Hyperty functionality?
 
@@ -379,7 +373,7 @@ Unfortunately, neither team managed to finish this challenge in time. Below are 
 Most relevant comments to the previous question:
 
   * We didn't have time to attempt to create a hyperty from scratch, so we cannot infer the difficulty. Based on changes made in challenge 3, it seems manageable
-  * It's hard to tell. Modifying the hyperty in challenge 3 was very easy, but I did nothave the chance to build a new one from scratch. Still, looking at the code of the existing hyperties, it does not seem too difficult.
+  * It's hard to tell. Modifying the hyperty in challenge 3 was very easy, but I did not have the chance to build a new one from scratch. Still, looking at the code of the existing hyperties, it does not seem too difficult.
 
 8. Did you try to change or add new functionalities to the used Hyperties?
 
