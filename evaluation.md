@@ -23,7 +23,7 @@ This section of the survey was used to collect information about all participant
 1. How old are you?
   - 20-25 (8)
   - 25-30 (1)
-  - >30 (1)
+  - \>30 (1)
 
 2. What is your genre?
 
