@@ -4,7 +4,7 @@ The questionnaire included in this section was used to evaluate different aspect
  
 The collected feedback from this survey will be used to identify and improve on the weaker parts of the framework, making the system more usable. It will also allow us to evaluate how well understood are the most important concepts, so that we may improve the documentation and training material.
 
-This event was a success, allowing us to collect nine different answers. The following preliminary conclusions are highlighted:
+This event was a success, allowing us to collect very useful feedback. The following preliminary conclusions are highlighted:
 
   *	Participants found Hyperties are easily integrated into Apps. However, more examples are required
   * All participants considered reTHINK easy to use
