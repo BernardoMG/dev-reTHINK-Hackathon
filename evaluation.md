@@ -1,29 +1,29 @@
 #	Development Evaluations
 
-The questionnaire included in this section was used to evaluate different aspects of the reTHINK system and its development framework. The main goal with this questionnaire was to collect feedback in reTHINK Beta Tester Event organized on the 27th of May for a limited number of “friendly” developers. This questionnaire was divided into seven sections. One section for teams presentation and background, five sections where each corresponds to a challenge and then a last section for overall evaluation.
+The questionnaire included in this section was used to evaluate different aspects of the reTHINK system and its development framework. The main goal of this questionnaire was to collect feedback on the reTHINK Beta Tester Event, organized on May 27th for a limited number of outside developers. This questionnaire was divided into seven sections. One section for team caracterization and background, five sections corresponding to each of the challenges and a last section for overall evaluation.
+ 
+The collected feedback from this survey will be used to identify and improve on the weaker parts of the framework, making the system more usable. It will also allow us to evaluate how well understood are the most important concepts, so that we may improve the documentation and training material.
 
-The collected feedback from this survey will be used to detect and improve all the weak parts of the framework, making the system more usable. It will also allow measuring the understanding of the most important concepts to improve the documentation and training material.
+This event was a success, allowing us to collect nine different answers. The following preliminary conclusions are highlighted:
 
-This event was a success, which allowed to collect a considerable number of answers. The following preliminary conclusions are highlighted:
-
-  *	Participants found Hyperties are easily integrated in Apps. However, more examples are required
+  *	Participants found Hyperties are easily integrated into Apps. However, more examples are required
   * All participants considered reTHINK easy to use
   * The reTHINK library logging is too verbose
-  * Documentation needs a huge improvement
-  * All participants recognized that would use reTHINK framework again in future projects
-  * Would be great if reTHINK works in different browsers
-  * Authentication GUI needs improvements in terms of user interface
+  * Documentation needs to be improvement
+  * All participants expressed the intention to use the reTHINK framework again in future projects
+  * It would be great if reTHINK was supported in more browsers
+  * The authentication GUI needs improvements in terms of user interface
   * The Hyperty toolkit was appreciated by participants
-  * Would be great if reTHINK had built-in integration with front-end frameworks and examples
+  * It would be great if reTHINK had built-in integration with front-end frameworks and examples
 
 # Survey - Teams presentation and background
 
-This section of the survey was used to collect information about all participants. Participants could run alone or in teams of two elements. In total, this event had twelve participants divided into eight teams.
+This section of the survey was used to collect information about the participants. Participants could enter the competition alone or in teams of two elements. In total, this event had twelve participants divided into eight teams. Not all of them answered all the questions.
 
 1. How old are you?
   - 20-25 (8)
   - 25-30 (1)
-  - \>30 (1)
+  - \>70 (1)
 
 2. What is your genre?
 
@@ -56,7 +56,7 @@ This section of the survey was used to collect information about all participant
 
 # Survey - First challenge
 
-This section corresponds to the first challenge of the event that each team had to complete. Basically, the main goal of this first challenge was to provide the first contact with the reTHINK framework. Each team had to developed a simple web application that uses an hyperty called CodeGeneratorReporter, taking advantage of its features. This hyperty provides a numerical code depending of the team name that should be passed as input. This challenge was divided into two tasks. The first task was to install the reTHINK framework and to load the CodeGeneratorReporter hyperty. The second task was to use the features of the loaded hyperty.
+This section corresponds to the first challenge of the event that each team had to complete. The main goal of this first challenge was to provide a first contact with the reTHINK framework. Each team had to developed a simple web application that uses an hyperty called CodeGeneratorReporter, taking advantage of its features. This hyperty provides a numerical code depending of the team's name, that should be passed as input. This challenge was divided into two tasks. The first task was to install the reTHINK framework and to load the CodeGeneratorReporter hyperty. The second task was to use the features of the loaded hyperty.
 
 1. How easy was to include Hyperties in your application?
 
@@ -65,7 +65,7 @@ This section corresponds to the first challenge of the event that each team had 
 Most relevant comments to the previous question:
 
   * Without the tutorial and further instructions, we would have taken a lot more time.
-  * After launching and installing, it was difficult to understand that authentication was needed and where to find to google button to authenticate
+  * After launching and installing, it was difficult to understand that authentication was needed and where to find a button to authenticate using Google
 
 2. How much knowledge about reTHINK do you think is required to use it?
 
@@ -122,7 +122,7 @@ Most relevant comments to the previous question:
 
   - No problem (4)
   - Task 1, due to misunderstanding of the script (2)
-  - The second task was warder because of some misunderstandings (2)
+  - The second task was harder because of some misunderstandings (2)
 
 8. Did you manage to use the Identity Management features?
 
@@ -151,21 +151,21 @@ Each team completed with success this first challenge and we were able to collec
 
   * Even with minimal knowledge about web application development, all participants were able to use reTHINK and complete this challenge;
   * All participants considered reTHINK easy to use;
-  * All participants considered easy to load Hyperties into their web applications.
+  * All participants considered it easy to load Hyperties into their web applications.
 
-However, we collect also some negative aspects that should be considered, such as:
+However, we also collected some negative feedback that should be addressed, such as:
 
-  * Authentication GUI, in terms of user interface, was difficult to understand for some participants;
-  * Without the tutorials and instructions available during the event, the participants recognized that would take much longer to complete all the tasks;
+  * The authentication GUI, in terms of user interface, was difficult to understand for some participants;
+  * Without the tutorials and instructions available during the event, the participants recognized that it would have taken them much longer to complete all the tasks;
   * Lack of documentation;
   * The reTHINK library logging is maybe a little too verbose.
 
 
 # Survey - Second challenge
 
-This section corresponds to the second challenge of the event that each team had to complete. Basically, the main goal of this second challenge was to combine multiple hyperties into a web application. Each team had to developed a much more complex web application, in terms of user interface, that uses the CodeGeneratorReporter and GroupChatManager hyperties. This challenge was divided into three tasks. The first task was to load two hyperties. The second task was to develop all the user interface to deal with all the features of the GroupChatManager hyperty e.g. creation of chat rooms, sending messages (chat capabilities). And finally, the third task was to combine the two loaded hyperties.
+This section corresponds to the second challenge of the event that each team had to complete. The main goal of this second challenge was to combine multiple hyperties into a web application. Each team had to developed a more complex web application, in terms of user interface, that uses the CodeGeneratorReporter and GroupChatManager hyperties. This challenge was divided into three tasks. The first task was to load two hyperties. The second task was to develop all the user interface to deal with all the features of the GroupChatManager hyperty e.g. creation of chat rooms, sending messages (chat capabilities). And finally, the third task was to combine the two loaded hyperties.
 
-1. How easy was to include more than one Hyperty in your application?
+1. How easy was it to include more than one Hyperty in your application?
 
 ![3-1](./Figures/Evaluation/3-1.png)
 
@@ -186,7 +186,7 @@ Most relevant comments to the previous question:
 
   * You can get it working with only basic knowledge, but then you may find some things a bit confusing (for example, the domain when inviting users).
 
-4. How much time did you spent reading the documentation? (estimate)
+4. How much time did you spend reading the documentation? (estimate)
 
   - 5min (2)
   - 15min
@@ -229,9 +229,9 @@ Most relevant comments to the previous question:
 8. Which task gave you the most trouble? And why?
 
   - The second task, especially the user join (2)
-  - In the third task there was a small problem when trying to authenticate with a anonymous mozilla tab were the menu would not normally appear, giving an error on the console, in chrome it worked as normal (2)
+  - In the third task there was a small problem when trying to authenticate with an anonymous mozilla tab were the menu would not normally appear, giving an error on the console, in chrome it worked as normal (2)
 
-9. If you had to implement another chat application would you choose reTHINK framework again?
+9. If you had to implement another chat application would you choose the reTHINK framework again?
 
   - Yes -  100%
   - No - 0%
@@ -240,14 +240,14 @@ Most relevant comments to the previous question:
 
   - With the experience we have now, it is quite easy and intuitive to implement this functionality using reTHINK.
   - Ease of use
-  - Even tho it was hard to start with some practice from myself the framework would be great to make new projects in the future
+  - Even though it was hard to start, with some practice from myself the framework would be great to make new projects in the future
   - After realizing the operation is relatively simple and simplifying the use compared to the traditional method
   - It is relatively simple to use but needs better documentation
   - The yes is actually a maybe. I think there are some good things in reTHINK. It was very easy to create a chat room, invite other users and send messages. However, I am concerned about the stability of the platform. I often experienced timeouts and strange errors that would only go away after clearing the cache.
 
 11. If your answer was "No" to question 9, which framework/libraries would you choose then? And why?
 
-  - I'm not sure. I'm not very familiar with the options out there. I might take look at XMPP, but I would probably not want to use it for a simple chat application on the web.
+  - I'm not sure. I'm not very familiar with the options out there. I might take a look at XMPP, but I would probably not want to use it for a simple chat application on the web.
 
 12. Let us know what limitations you found and how you would improve it.
 
@@ -269,7 +269,7 @@ Only four teams were able to complete this second challenge with success. In spi
 
 However, we collect also some negative aspects that should be considered, such as:
 
-  * Lack of documentation and sometimes not entirely clear;
+  * Lack of documentation and sometimes the existing documentation is not entirely clear;
   * Problems arise if the used browser is not Chrome;
   * Some timeout errors and no explanation for them;
   * The fact that it is necessary to clean the cache constantly is a bit dull.
@@ -277,9 +277,9 @@ However, we collect also some negative aspects that should be considered, such a
 
 # Survey - Third challenge
 
-This section corresponds to the third challenge of the event that each team had to complete. Basically, the main goal of this third challenge was to change the CodeGeneratorReporter hyperty functionality, reusing the previous developed application. Now, this hyperty should generate a code and a timestamp depending of the team name that should be passed as input. This challenge was divided into two tasks. The first task was to configure the hyperty toolkit, following the available documentation on the reTHINK repository. The second task was to change the hyperty functionality and to use it in the developed application.
+This section corresponds to the third challenge of the event that each team had to complete. The main goal of this third challenge was to change the CodeGeneratorReporter hyperty functionality, reusing the previous developed application. Now, this hyperty should generate a code and a timestamp according to the team's name, that should be passed as input. This challenge was divided into two tasks. The first task was to configure the hyperty toolkit, following the available documentation on the reTHINK repository. The second task was to change the hyperty functionality and to use it in the developed application.
 
-1. How easy was to setup the reTHINK environment in your local machine?
+1. How easy was it to setup the reTHINK environment in your local machine?
 
   ![4-1](./Figures/Evaluation/4-1.png)
 
@@ -321,7 +321,7 @@ Most relevant comments to the previous question:
 
 #### Note: Our estimate for this task was 40 minutes. The average time of the participants was 51 minutes.
 
-7. How easy was to change the Hyperty functionality?
+7. How easy was it to change the Hyperty functionality?
 
   ![4-7](./Figures/Evaluation/4-7.png)
 
@@ -336,8 +336,8 @@ Most relevant comments to the previous question:
 #### Conclusion:
 Only two teams were able to complete this third challenge with success. In spite of this, it was still possible to collect some useful feedback about the development of hyperties. There were positive aspects, such as:
 
-  * Most of the participants considered easy to setup the reTHINK development environment (hyperty toolkit);
-  * Most of the participants considered easy to change the hyperty functionality.
+  * Most of the participants considered it easy to setup the reTHINK development environment (hyperty toolkit);
+  * Most of the participants considered it easy to change the hyperty functionality.
 
 However, we collect also some negative aspects that should be considered, such as:
 
@@ -347,9 +347,9 @@ However, we collect also some negative aspects that should be considered, such a
 
 # Survey - Fourth challenge
 
-This section corresponds to the fourth challenge of the event that each team had to complete. Basically, the main goal of this fourth challenge was to develop a video conference application. This application should cover some functional requirements, such as creation of chat rooms with the possibility of inviting users to join in, A/V calls between users and the possibility to make A/V calls at the same time that a chat room is available (exchanging messages). This was an open challenge in which the participants could choose hyperties already available or develop their own hyperties.
+This section corresponds to the fourth challenge of the event that each team had to complete. The main goal of this fourth challenge was to develop a video conference application. This application should cover some functional requirements, such as the creation of chat rooms with the possibility of inviting users to join in, A/V calls between users and the possibility to make A/V calls at the same time that a chat room is available (exchanging messages). This was an open challenge in which the participants could choose hyperties already available or develop their own hyperties.
 
-Unfortunately, neither team managed to finish this challenge in time. Below are listed all the questions and some of the collected answers.
+Unfortunately, neither of the teams that made it to this challenged, managed to finish this challenge in time. Below are listed all the questions and some of the collected answers.
 
 1. Did you choose to develop new Hyperties? If yes, describe them briefly. If not, pass to the sixth question.
 
@@ -390,9 +390,9 @@ Most relevant comments to the previous question:
 
 # Survey - Fifth challenge
 
-This section corresponds to the fifth challenge of the event that each team had to complete. Basically, the main goal of this fifth challenge was to develop a new hyperty from scratch. Each team was free to design the hyperty, as well as the web application that uses it.
+This section corresponds to the fifth challenge of the event that each team had to complete. The main goal of this fifth challenge was to develop a new hyperty from scratch. Each team was free to design the hyperty, as well as the web application that uses it.
 
-Unfortunately, no team started to do this challenge, so we could not collected answers. Below are listed all the questions.
+Unfortunately, no team reached this challenge, so we could not collected answers. Below are listed all the questions.
 
 1. Describe briefly the developed web application.
 
@@ -432,11 +432,11 @@ This section of the survey was used to make an overall evaluation about reTHINK.
   - All the challenges we did were easy to implement with reTHINK. Unfortunately, we couldn't experience how it would work when used with a real-life application, but we consider it would be manageable. It needs more extensive documentation, especially on the demos.
   - Again, not enough experience to compare.
 
-3. How easy was to understand the reTHINK documentation?
+3. How easy was it to understand the reTHINK documentation?
 
   ![6-3](./Figures/Evaluation/6-3.png)
 
-4. What features of reTHINK framework looks more promising to you?
+4. What features of the reTHINK framework look more promising to you?
 
   - The fast chatrooms creations
   - It's ease to use in projects. Doesn't require much to run in a script
@@ -456,7 +456,7 @@ This section of the survey was used to make an overall evaluation about reTHINK.
   - Built-in integration with front-end frameworks and examples
   - More hyperties! I think the best way to popularize it would be to have the basic building blocks ready, so you can quickly build an application out of them
 
-7. Would you recommend reTHINK framework?
+7. Would you recommend the reTHINK framework?
 
   ![6-7](./Figures/Evaluation/6-7.png)
 
